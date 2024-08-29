@@ -1,0 +1,1479 @@
+[13:16:51][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[13:16:51][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[13:16:52][Debug]: Loading universe... 0,637KB
+[13:16:52][Debug]: Loading groups...
+[13:16:52][Debug]: Loading settings...
+[13:16:52][Debug]: Loading mod control...
+[13:16:52][Debug]: Loading plugins...
+[13:16:52][LMP]: Starting 'ZZZwefly' on Address 0.0.0.0 Port 8800... 
+[13:16:58][LMP]: Registering with master servers
+[13:16:58][LMP]: All systems up and running. Поехали!
+[13:16:58][Debug]: Performing a GarbageCollection
+[13:18:52][LMP]: New client Connection from 84.255.185.16:23698
+[13:18:52][Debug]: Online Players: 0, connected: 1
+[13:18:52][LMP]: Client 7dxe (359865CA-ED9C-5CEF-8044-DBA515F1C864) handshake successfully, Version: 0.29.0
+[13:18:52][Debug]: Online Players: 1, connected: 1
+[13:18:52][Debug]: Sending 7dxe 20 vessels
+[13:18:52][Debug]: Sending 7dxe 28 kerbals...
+[13:18:53][Debug]: Sending 7dxe 1 possible subspaces
+[13:18:58][Debug]: Performing backups...
+[13:19:01][Debug]: Saving kerbal Bill Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Bob Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Mito Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Fergas Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Kavan Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Irpont Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Valul Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Dangard Kerman from 7dxe
+[13:19:01][Debug]: Sending 1 craft folders to: 7dxe
+[13:19:01][Debug]: Saving kerbal Bob Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Valul Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Bill Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Fergas Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Kavan Kerman from 7dxe
+[13:19:01][Debug]: Saving kerbal Irpont Kerman from 7dxe
+[13:19:02][Debug]: Saving kerbal Dangard Kerman from 7dxe
+[13:19:02][Debug]: Saving kerbal Mito Kerman from 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:19:02][Debug]: 7dxe acquired lock AsteroidComet - 7dxe
+[13:19:02][Debug]: 7dxe synced with subspace '1' created by Server
+[13:19:10][LMP]: Command input: hello 7dxe
+[13:19:10][LMP]: Broadcasting hello 7dxe
+[13:19:15][LMP]: Command input: this is a generated message
+[13:19:15][LMP]: Broadcasting this is a generated message
+[13:19:16][LMP]: Command input: don't worry
+[13:19:16][LMP]: Broadcasting don't worry
+[13:19:20][Chat]: 7dxe: reak
+[13:19:21][Chat]: 7dxe: real
+[13:19:22][LMP]: Command input: not me typing
+[13:19:22][LMP]: Broadcasting not me typing
+[13:19:24][Debug]: Saving 9 scenario modules from 7dxe
+[13:19:28][Debug]: Performing backups...
+[13:19:28][Debug]: Saving kerbal Jebediah Kerman from 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:19:29][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:19:33][Debug]: Sending 7dxe 20 vessels
+[13:19:58][Debug]: Performing backups...
+[13:20:00][LMP]: New client Connection from 26.81.224.97:49771
+[13:20:00][Debug]: Online Players: 1, connected: 2
+[13:20:00][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[13:20:00][Debug]: Online Players: 2, connected: 2
+[13:20:00][Debug]: Sending Micro 20 vessels
+[13:20:00][Debug]: Sending Micro 28 kerbals...
+[13:20:01][Debug]: Sending Micro 1 possible subspaces
+[13:20:07][Debug]: Saving kerbal Bill Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Bob Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Valentina Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Mito Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Fergas Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Malbrett Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Kavan Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Irpont Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Valul Kerman from Micro
+[13:20:07][Debug]: Saving kerbal Dangard Kerman from Micro
+[13:20:09][Debug]: Sending 1 craft folders to: Micro
+[13:20:09][Debug]: Saving kerbal Bill Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Bob Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Valul Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Valentina Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Dangard Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Mito Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Malbrett Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Fergas Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Kavan Kerman from Micro
+[13:20:09][Debug]: Saving kerbal Irpont Kerman from Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - Micro
+[13:20:10][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[13:20:10][Debug]: Micro synced with subspace '1' created by Server
+[13:20:23][Debug]: Micro is warping
+[13:20:28][Debug]: Performing backups...
+[13:20:30][Debug]: Micro created the new subspace '2'
+[13:20:31][Debug]: Saving 9 scenario modules from Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[13:20:37][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[13:20:41][Debug]: Sending Micro 20 vessels
+[13:20:43][Debug]: 7dxe synced with subspace '2' created by Micro
+[13:20:43][Debug]: Removing abandoned subspace '1'
+[13:20:58][Debug]: Performing backups...
+[13:21:28][Debug]: Performing backups...
+[13:21:58][Debug]: Performing backups...
+[13:22:29][Debug]: Performing backups...
+[13:22:59][Debug]: Performing backups...
+[13:23:29][Debug]: Performing backups...
+[13:23:59][Debug]: Performing backups...
+[13:24:29][Debug]: Performing backups...
+[13:24:59][Debug]: Performing backups...
+[13:25:29][Debug]: Performing backups...
+[13:25:59][Debug]: Performing backups...
+[13:26:29][Debug]: Performing backups...
+[13:26:59][Debug]: Performing backups...
+[13:27:29][Debug]: Performing backups...
+[13:28:00][Debug]: Performing backups...
+[13:28:30][Debug]: Performing backups...
+[13:29:00][Debug]: Performing backups...
+[13:29:30][Debug]: Performing backups...
+[13:29:54][LMP]: New client Connection from 83.135.162.74:11527
+[13:29:54][Debug]: Online Players: 2, connected: 3
+[13:29:54][LMP]: Client Java (1312a0702adab5bc1620e397971cd69a1e4405e8) handshake successfully, Version: 0.29.0
+[13:29:54][Debug]: Online Players: 3, connected: 3
+[13:29:54][Warning]: Connection received unhandled library message: NatPunchMessage
+[13:29:54][Warning]: Connection received unhandled library message: NatPunchMessage
+[13:29:54][Debug]: Sending Java 20 vessels
+[13:29:54][Debug]: Sending Java 28 kerbals...
+[13:29:55][Debug]: Sending Java 1 possible subspaces
+[13:29:56][Debug]: Saving flag ZZflags/Flags/WestKerbin from Java
+[13:30:00][Debug]: Performing backups...
+[13:30:09][Debug]: Saving kerbal Bill Kerman from Java
+[13:30:09][Debug]: Saving kerbal Bob Kerman from Java
+[13:30:09][Debug]: Saving kerbal Valentina Kerman from Java
+[13:30:09][Debug]: Saving kerbal Mito Kerman from Java
+[13:30:09][Debug]: Saving kerbal Fergas Kerman from Java
+[13:30:09][Debug]: Saving kerbal Malbrett Kerman from Java
+[13:30:09][Debug]: Saving kerbal Kavan Kerman from Java
+[13:30:09][Debug]: Saving kerbal Irpont Kerman from Java
+[13:30:09][Debug]: Saving kerbal Valul Kerman from Java
+[13:30:09][Debug]: Saving kerbal Dangard Kerman from Java
+[13:30:10][Debug]: Sending 1 craft folders to: Java
+[13:30:10][Debug]: Saving kerbal Valentina Kerman from Java
+[13:30:10][Debug]: Saving kerbal Fergas Kerman from Java
+[13:30:10][Debug]: Saving kerbal Dangard Kerman from Java
+[13:30:11][Debug]: Saving kerbal Bill Kerman from Java
+[13:30:11][Debug]: Saving kerbal Kavan Kerman from Java
+[13:30:11][Debug]: Saving kerbal Irpont Kerman from Java
+[13:30:11][Debug]: Saving kerbal Bob Kerman from Java
+[13:30:11][Debug]: Saving kerbal Mito Kerman from Java
+[13:30:11][Debug]: Saving kerbal Malbrett Kerman from Java
+[13:30:11][Debug]: Saving kerbal Valul Kerman from Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Java
+[13:30:14][Debug]: Java acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - Java
+[13:30:14][Debug]: Java synced with subspace '2' created by Micro
+[13:30:25][Debug]: Saving 16 scenario modules from Java
+[13:30:30][Debug]: Performing backups...
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - d148d973-85c1-47a1-a721-5cef9d5c2850 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Java
+[13:30:35][Debug]: Java released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Java
+[13:30:45][Debug]: Sending Java 20 vessels
+[13:30:55][Debug]: Saving 3 scenario modules from Java
+[13:31:00][Debug]: Performing backups...
+[13:31:22][Chat]: Micro: where eva seat
+[13:31:27][Debug]: Saving 1 scenario modules from Java
+[13:31:30][Debug]: Performing backups...
+[13:31:46][Chat]: 7dxe: pods
+[13:31:48][Chat]: 7dxe: firs titem
+[13:31:55][Debug]: Saving 1 scenario modules from Java
+[13:31:58][Debug]: Performing a GarbageCollection
+[13:32:00][Debug]: Performing backups...
+[13:32:20][Chat]: Micro: found them
+[13:32:24][Chat]: Micro: look gameplan for fuel
+[13:32:25][Debug]: Saving 1 scenario modules from Java
+[13:32:26][Chat]: Micro: make miners
+[13:32:30][Debug]: Performing backups...
+[13:32:33][Chat]: Micro: make truck that transports them to airport
+[13:32:38][Chat]: Micro: make planes that fly them globally
+[13:32:55][Debug]: Saving 1 scenario modules from Java
+[13:33:00][Debug]: Performing backups...
+[13:33:25][Debug]: Saving 1 scenario modules from Java
+[13:33:30][Debug]: Performing backups...
+[13:33:55][Debug]: Saving 1 scenario modules from Java
+[13:34:00][Debug]: Performing backups...
+[13:34:25][Debug]: Saving 1 scenario modules from Java
+[13:34:30][Debug]: Performing backups...
+[13:34:52][Chat]: 7dxe: yes
+[13:34:55][Debug]: Saving 1 scenario modules from Java
+[13:35:00][Debug]: Performing backups...
+[13:35:05][Chat]: 7dxe: cr what are u doing rn
+[13:35:25][Debug]: Saving 1 scenario modules from Java
+[13:35:30][Debug]: Performing backups...
+[13:35:55][Debug]: Saving 1 scenario modules from Java
+[13:36:00][Debug]: Performing backups...
+[13:36:25][Debug]: Saving 1 scenario modules from Java
+[13:36:31][Debug]: Performing backups...
+[13:36:55][Debug]: Saving 1 scenario modules from Java
+[13:37:01][Debug]: Performing backups...
+[13:37:25][Debug]: Saving 1 scenario modules from Java
+[13:37:31][Debug]: Performing backups...
+[13:37:53][Chat]: Micro: ,mjnjk
+[13:37:56][Debug]: Saving 1 scenario modules from Java
+[13:38:01][Debug]: Performing backups...
+[13:38:26][Debug]: Saving 1 scenario modules from Java
+[13:38:31][Debug]: Performing backups...
+[13:38:56][Debug]: Saving 1 scenario modules from Java
+[13:39:01][Debug]: Performing backups...
+[13:39:26][Debug]: Saving 1 scenario modules from Java
+[13:39:31][Debug]: Performing backups...
+[13:39:36][Chat]: Micro: what u working on?
+[13:39:56][Debug]: Saving 1 scenario modules from Java
+[13:39:58][Chat]: 7dxe: fuel refinery
+[13:40:01][Debug]: Performing backups...
+[13:40:04][Chat]: Micro: cr is upgrading orbiter shuttle for MUN mission
+[13:40:15][Chat]: 7dxe: ah nice
+[13:40:26][Debug]: Saving 1 scenario modules from Java
+[13:40:31][Debug]: Performing backups...
+[13:40:56][Debug]: Saving 1 scenario modules from Java
+[13:41:01][Debug]: Performing backups...
+[13:41:26][Debug]: Saving 1 scenario modules from Java
+[13:41:31][Debug]: Performing backups...
+[13:41:56][Debug]: Saving 1 scenario modules from Java
+[13:42:01][Debug]: Performing backups...
+[13:42:26][Debug]: Saving 1 scenario modules from Java
+[13:42:31][Debug]: Performing backups...
+[13:42:56][Debug]: Saving 1 scenario modules from Java
+[13:43:01][Debug]: Performing backups...
+[13:43:26][Debug]: Saving 1 scenario modules from Java
+[13:43:32][Debug]: Performing backups...
+[13:43:56][Debug]: Saving 1 scenario modules from Java
+[13:44:02][Debug]: Performing backups...
+[13:44:26][Debug]: Saving 1 scenario modules from Java
+[13:44:32][Debug]: Performing backups...
+[13:44:56][Debug]: Saving 1 scenario modules from Java
+[13:45:02][Debug]: Performing backups...
+[13:45:26][Debug]: Saving 1 scenario modules from Java
+[13:45:32][Debug]: Performing backups...
+[13:45:56][Debug]: Saving 1 scenario modules from Java
+[13:46:02][Debug]: Performing backups...
+[13:46:26][Debug]: Saving 1 scenario modules from Java
+[13:46:32][Debug]: Performing backups...
+[13:46:56][Debug]: Saving 1 scenario modules from Java
+[13:46:58][Debug]: Performing a GarbageCollection
+[13:47:02][Debug]: Performing backups...
+[13:47:26][Debug]: Saving 1 scenario modules from Java
+[13:47:32][Debug]: Performing backups...
+[13:47:56][Debug]: Saving 1 scenario modules from Java
+[13:48:02][Debug]: Performing backups...
+[13:48:05][Chat]: 7dxe: refinery is done
+[13:48:25][Debug]: Saving kerbal Fergas Kerman from 7dxe
+[13:48:25][Debug]: Removing vessel d148d973-85c1-47a1-a721-5cef9d5c2850 from 7dxe
+[13:48:25][Debug]: Saving kerbal Fergas Kerman from 7dxe
+[13:48:26][Debug]: 7dxe failed to release lock Kerbal - Fergas Kerman - 7dxe
+[13:48:26][Debug]: Saving 1 scenario modules from Java
+[13:48:32][Debug]: Performing backups...
+[13:48:42][Debug]: 7dxe acquired lock Control - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock Update - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:48:43][Debug]: 7dxe acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:48:46][Debug]: Saving vessel 6f4671eb-a9ab-465b-b864-f2cecafca869 (198,755 KB) from 7dxe.
+[13:48:54][Debug]: Saving 2 scenario modules from 7dxe
+[13:48:56][Debug]: Saving 1 scenario modules from Java
+[13:49:02][Debug]: Performing backups...
+[13:49:22][Debug]: Removing vessel 6f4671eb-a9ab-465b-b864-f2cecafca869 from 7dxe
+[13:49:23][Debug]: Sending Micro 1 vessels
+[13:49:24][Debug]: 7dxe released lock Control - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:49:24][Debug]: 7dxe released lock Update - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - 7dxe
+[13:49:24][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:49:26][Debug]: Saving 1 scenario modules from Java
+[13:49:26][Debug]: Sending Java 1 vessels
+[13:49:32][Debug]: Performing backups...
+[13:49:33][Debug]: Sending Micro 1 vessels
+[13:49:34][Debug]: Sending 7dxe 20 vessels
+[13:49:44][Debug]: Sending 7dxe 1 vessels
+[13:49:54][Debug]: Sending 7dxe 1 vessels
+[13:49:56][Debug]: Saving 1 scenario modules from Java
+[13:50:03][Debug]: Performing backups...
+[13:50:04][Debug]: Sending 7dxe 1 vessels
+[13:50:14][Debug]: Sending 7dxe 1 vessels
+[13:50:24][Debug]: Sending 7dxe 1 vessels
+[13:50:26][Debug]: Saving 1 scenario modules from Java
+[13:50:33][Debug]: Performing backups...
+[13:50:34][Debug]: Sending 7dxe 1 vessels
+[13:50:44][Debug]: Sending 7dxe 1 vessels
+[13:50:54][Debug]: Sending 7dxe 1 vessels
+[13:50:56][Debug]: Saving 1 scenario modules from Java
+[13:51:03][Debug]: Performing backups...
+[13:51:13][Debug]: 7dxe acquired lock Control - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock Update - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:51:13][Debug]: 7dxe acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:51:15][Debug]: Saving vessel c4ba735c-741d-42bc-aa82-1db15bb9b402 (219,018 KB) from 7dxe.
+[13:51:23][Debug]: Sending 7dxe 1 vessels
+[13:51:26][Debug]: Saving 1 scenario modules from Java
+[13:51:33][Debug]: Performing backups...
+[13:51:33][Debug]: Sending 7dxe 1 vessels
+[13:51:43][Debug]: Sending 7dxe 1 vessels
+[13:51:47][Debug]: 7dxe acquired lock Update - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:51:47][Debug]: 7dxe acquired lock Update - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:51:48][Debug]: 7dxe acquired lock Update - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Valul Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Malbrett Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Valentina Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Bill Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Irpont Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Kavan Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Bob Kerman - 7dxe
+[13:51:49][Debug]: 7dxe acquired lock Kerbal - Mito Kerman - 7dxe
+[13:51:53][Debug]: Sending 7dxe 1 vessels
+[13:51:56][Debug]: Saving 1 scenario modules from Java
+[13:52:03][Debug]: Performing backups...
+[13:52:03][Debug]: Sending 7dxe 1 vessels
+[13:52:13][Debug]: Sending 7dxe 1 vessels
+[13:52:23][Debug]: Sending 7dxe 1 vessels
+[13:52:26][Debug]: Saving 1 scenario modules from Java
+[13:52:33][Debug]: Performing backups...
+[13:52:33][Debug]: Sending 7dxe 1 vessels
+[13:52:38][Debug]: 7dxe is warping
+[13:52:39][Debug]: 7dxe created the new subspace '3'
+[13:52:43][Debug]: Sending 7dxe 1 vessels
+[13:52:53][Debug]: Sending 7dxe 1 vessels
+[13:52:56][Debug]: Saving 1 scenario modules from Java
+[13:53:03][Debug]: Performing backups...
+[13:53:03][Debug]: Sending 7dxe 1 vessels
+[13:53:13][Debug]: Sending 7dxe 1 vessels
+[13:53:23][Debug]: Sending 7dxe 1 vessels
+[13:53:26][Debug]: Saving 1 scenario modules from Java
+[13:53:33][Debug]: Sending 7dxe 1 vessels
+[13:53:33][Debug]: Performing backups...
+[13:53:43][Debug]: Sending 7dxe 1 vessels
+[13:53:44][Debug]: Removing vessel c4ba735c-741d-42bc-aa82-1db15bb9b402 from 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Valentina Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Irpont Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Malbrett Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Kavan Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Bob Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Bill Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Valul Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Kerbal - Mito Kerman - 7dxe
+[13:53:46][Debug]: 7dxe released lock Control - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:53:46][Debug]: 7dxe released lock Update - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:53:46][Debug]: 7dxe released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - 7dxe
+[13:53:47][Debug]: Sending Java 1 vessels
+[13:53:51][Chat]: 7dxe: drills have a hitbox :(
+[13:53:51][Debug]: Java synced with subspace '3' created by 7dxe
+[13:53:53][Debug]: Sending Micro 1 vessels
+[13:53:53][Debug]: Sending 7dxe 21 vessels
+[13:53:56][Debug]: Saving 1 scenario modules from Java
+[13:53:56][Debug]: Sending Java 1 vessels
+[13:54:03][Debug]: Sending 7dxe 2 vessels
+[13:54:03][Debug]: Performing backups...
+[13:54:13][Debug]: Sending 7dxe 2 vessels
+[13:54:24][Debug]: Sending 7dxe 2 vessels
+[13:54:26][Debug]: Saving 1 scenario modules from Java
+[13:54:33][Debug]: Sending 7dxe 2 vessels
+[13:54:33][Debug]: Performing backups...
+[13:54:43][Debug]: Sending 7dxe 2 vessels
+[13:54:53][Debug]: Sending 7dxe 2 vessels
+[13:54:56][Debug]: Saving 1 scenario modules from Java
+[13:55:04][Debug]: Performing backups...
+[13:55:10][Debug]: 7dxe acquired lock Control - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:55:10][Debug]: 7dxe acquired lock Update - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:55:10][Debug]: 7dxe acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:55:11][Debug]: 7dxe acquired lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:55:13][Debug]: Saving vessel 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 (226,742 KB) from 7dxe.
+[13:55:13][Debug]: Sending Micro 1 vessels
+[13:55:20][Debug]: Sending 7dxe 2 vessels
+[13:55:23][Debug]: Sending Micro 1 vessels
+[13:55:26][Debug]: Saving 1 scenario modules from Java
+[13:55:30][Debug]: Sending 7dxe 2 vessels
+[13:55:33][Debug]: Sending Micro 1 vessels
+[13:55:34][Debug]: Performing backups...
+[13:55:40][Debug]: Sending 7dxe 2 vessels
+[13:55:43][Debug]: Sending Micro 1 vessels
+[13:55:50][Debug]: Sending 7dxe 2 vessels
+[13:55:53][Debug]: Sending Micro 1 vessels
+[13:55:56][Debug]: Saving 1 scenario modules from Java
+[13:56:00][Debug]: Sending 7dxe 2 vessels
+[13:56:03][Debug]: Sending Micro 1 vessels
+[13:56:04][Debug]: Performing backups...
+[13:56:10][Debug]: Sending 7dxe 2 vessels
+[13:56:13][Debug]: Sending Micro 1 vessels
+[13:56:20][Debug]: Sending 7dxe 2 vessels
+[13:56:23][Debug]: Sending Micro 1 vessels
+[13:56:26][Debug]: Saving 1 scenario modules from Java
+[13:56:30][Debug]: Sending 7dxe 2 vessels
+[13:56:33][Debug]: Sending Micro 1 vessels
+[13:56:34][Debug]: Performing backups...
+[13:56:35][Debug]: 7dxe acquired lock Update - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:56:35][Debug]: 7dxe acquired lock Update - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:56:36][Debug]: 7dxe acquired lock Update - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Valentina Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Valul Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Kavan Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Mito Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Malbrett Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Irpont Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Bill Kerman - 7dxe
+[13:56:37][Debug]: 7dxe acquired lock Kerbal - Bob Kerman - 7dxe
+[13:56:40][Debug]: Sending 7dxe 2 vessels
+[13:56:43][Debug]: Sending Micro 1 vessels
+[13:56:50][Debug]: Sending 7dxe 2 vessels
+[13:56:53][Debug]: Sending Micro 1 vessels
+[13:56:56][Debug]: Saving 1 scenario modules from Java
+[13:57:00][Debug]: Sending 7dxe 2 vessels
+[13:57:03][Debug]: Sending Micro 1 vessels
+[13:57:04][Debug]: Performing backups...
+[13:57:10][Debug]: Sending 7dxe 2 vessels
+[13:57:13][Debug]: Sending Micro 1 vessels
+[13:57:20][Debug]: 7dxe released lock Kerbal - Malbrett Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Valentina Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Bob Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Kavan Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Irpont Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Bill Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Valul Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Kerbal - Mito Kerman - 7dxe
+[13:57:20][Debug]: 7dxe released lock Control - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:57:20][Debug]: 7dxe released lock Update - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:57:23][Debug]: Sending Micro 1 vessels
+[13:57:26][Debug]: Saving 1 scenario modules from Java
+[13:57:30][Debug]: Sending 7dxe 2 vessels
+[13:57:31][Debug]: Removing vessel 8cb6fc09-3830-4fd3-ad92-393e90f94a7e from 7dxe
+[13:57:32][Debug]: 7dxe released lock UnloadedUpdate - 8cb6fc09-3830-4fd3-ad92-393e90f94a7e - 7dxe
+[13:57:33][Debug]: Sending Micro 1 vessels
+[13:57:34][Debug]: Performing backups...
+[13:57:35][Debug]: Saving kerbal Valul Kerman from 7dxe
+[13:57:35][Debug]: Removing vessel e4c85873-933c-43e6-832e-24a8398ab48e from 7dxe
+[13:57:35][Debug]: Saving kerbal Valul Kerman from 7dxe
+[13:57:36][Debug]: 7dxe released lock UnloadedUpdate - e4c85873-933c-43e6-832e-24a8398ab48e - 7dxe
+[13:57:36][Debug]: 7dxe failed to release lock Kerbal - Valul Kerman - 7dxe
+[13:57:37][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:57:37][Debug]: Removing vessel ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a from 7dxe
+[13:57:37][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:57:37][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:57:38][Debug]: 7dxe released lock UnloadedUpdate - ddc4c3e7-175b-40f4-9c8f-baf6d0821a2a - 7dxe
+[13:57:38][Debug]: 7dxe failed to release lock Kerbal - Malbrett Kerman - 7dxe
+[13:57:40][Debug]: Sending 7dxe 2 vessels
+[13:57:42][Debug]: Saving kerbal Bill Kerman from 7dxe
+[13:57:42][Debug]: Removing vessel 4f9c2fe5-216d-482a-8cc3-9fad59566e89 from 7dxe
+[13:57:42][Debug]: Saving kerbal Bill Kerman from 7dxe
+[13:57:42][Debug]: Saving kerbal Bill Kerman from 7dxe
+[13:57:43][Debug]: 7dxe released lock UnloadedUpdate - 4f9c2fe5-216d-482a-8cc3-9fad59566e89 - 7dxe
+[13:57:43][Debug]: 7dxe failed to release lock Kerbal - Bill Kerman - 7dxe
+[13:57:43][Debug]: Sending Micro 1 vessels
+[13:57:44][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:57:44][Debug]: Removing vessel fd0adfc9-4509-4d22-9f7b-b8f1766abf18 from 7dxe
+[13:57:44][Debug]: Saving kerbal Malbrett Kerman from 7dxe
+[13:57:45][Debug]: 7dxe released lock UnloadedUpdate - fd0adfc9-4509-4d22-9f7b-b8f1766abf18 - 7dxe
+[13:57:45][Debug]: 7dxe failed to release lock Kerbal - Malbrett Kerman - 7dxe
+[13:57:47][Debug]: Saving kerbal Irpont Kerman from 7dxe
+[13:57:48][Debug]: Saving kerbal Kavan Kerman from 7dxe
+[13:57:48][Debug]: Removing vessel 66b41c4a-3084-4b0a-9973-14f95bca15e8 from 7dxe
+[13:57:48][Debug]: Saving kerbal Irpont Kerman from 7dxe
+[13:57:48][Debug]: Saving kerbal Kavan Kerman from 7dxe
+[13:57:49][Debug]: 7dxe released lock UnloadedUpdate - 66b41c4a-3084-4b0a-9973-14f95bca15e8 - 7dxe
+[13:57:49][Debug]: 7dxe failed to release lock Kerbal - Irpont Kerman - 7dxe
+[13:57:49][Debug]: 7dxe failed to release lock Kerbal - Kavan Kerman - 7dxe
+[13:57:50][Debug]: Sending 7dxe 2 vessels
+[13:57:53][Debug]: Sending Micro 1 vessels
+[13:57:56][Debug]: Saving kerbal Bob Kerman from 7dxe
+[13:57:56][Debug]: Saving kerbal Mito Kerman from 7dxe
+[13:57:56][Debug]: Removing vessel ab0b3d12-0833-464f-9b9b-261312bb7511 from 7dxe
+[13:57:56][Debug]: Saving kerbal Bob Kerman from 7dxe
+[13:57:56][Debug]: Saving kerbal Mito Kerman from 7dxe
+[13:57:56][Debug]: Saving kerbal Bob Kerman from 7dxe
+[13:57:56][Debug]: Saving 1 scenario modules from Java
+[13:57:57][Debug]: 7dxe released lock UnloadedUpdate - ab0b3d12-0833-464f-9b9b-261312bb7511 - 7dxe
+[13:57:57][Debug]: 7dxe failed to release lock Kerbal - Bob Kerman - 7dxe
+[13:57:57][Debug]: 7dxe failed to release lock Kerbal - Mito Kerman - 7dxe
+[13:58:00][Debug]: Sending 7dxe 2 vessels
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[13:58:03][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[13:58:03][Debug]: Sending Micro 1 vessels
+[13:58:04][Debug]: Performing backups...
+[13:58:13][Debug]: Sending Micro 1 vessels
+[13:58:20][Debug]: Sending 7dxe 15 vessels
+[13:58:23][Debug]: Sending Micro 1 vessels
+[13:58:26][Debug]: Saving 1 scenario modules from Java
+[13:58:30][Debug]: Sending 7dxe 2 vessels
+[13:58:33][Debug]: Sending Micro 1 vessels
+[13:58:34][Debug]: Performing backups...
+[13:58:40][Debug]: Sending 7dxe 2 vessels
+[13:58:43][Debug]: Sending Micro 1 vessels
+[13:58:50][Debug]: Sending 7dxe 2 vessels
+[13:58:53][Debug]: Sending Micro 1 vessels
+[13:58:56][Debug]: Saving 1 scenario modules from Java
+[13:59:01][Debug]: Sending 7dxe 2 vessels
+[13:59:03][Debug]: Sending Micro 1 vessels
+[13:59:04][Debug]: Performing backups...
+[13:59:10][Debug]: Sending 7dxe 2 vessels
+[13:59:13][Debug]: Sending Micro 1 vessels
+[13:59:20][Debug]: Sending 7dxe 2 vessels
+[13:59:23][Debug]: Sending Micro 1 vessels
+[13:59:26][Debug]: Saving 1 scenario modules from Java
+[13:59:30][Debug]: Sending 7dxe 2 vessels
+[13:59:33][Debug]: Sending Micro 1 vessels
+[13:59:35][Debug]: Performing backups...
+[13:59:40][Debug]: Sending 7dxe 2 vessels
+[13:59:43][Debug]: Sending Micro 1 vessels
+[13:59:50][Debug]: Sending 7dxe 2 vessels
+[13:59:53][Debug]: Sending Micro 1 vessels
+[13:59:56][Debug]: Saving 1 scenario modules from Java
+[14:00:00][Debug]: Sending 7dxe 2 vessels
+[14:00:03][Debug]: Sending Micro 1 vessels
+[14:00:05][Debug]: Performing backups...
+[14:00:11][Debug]: Sending 7dxe 2 vessels
+[14:00:13][Debug]: Sending Micro 1 vessels
+[14:00:20][Debug]: Sending 7dxe 2 vessels
+[14:00:23][Debug]: Sending Micro 1 vessels
+[14:00:26][Debug]: Saving 1 scenario modules from Java
+[14:00:31][Debug]: Sending 7dxe 2 vessels
+[14:00:33][Debug]: Sending Micro 1 vessels
+[14:00:35][Debug]: Performing backups...
+[14:00:41][Debug]: Sending 7dxe 2 vessels
+[14:00:43][Debug]: Sending Micro 1 vessels
+[14:00:51][Debug]: Sending 7dxe 2 vessels
+[14:00:51][Debug]: Saving kerbal Bob Kerman from Micro
+[14:00:52][Debug]: Removing vessel f56559a6-744d-4849-b51d-8111e1f777b6 from Micro
+[14:00:52][Debug]: Saving kerbal Bob Kerman from Micro
+[14:00:52][Debug]: Saving kerbal Bill Kerman from Micro
+[14:00:52][Debug]: Removing vessel e603ad95-a89e-4f27-8033-356871fee09c from Micro
+[14:00:52][Debug]: Saving kerbal Bill Kerman from Micro
+[14:00:52][Debug]: Saving kerbal Dangard Kerman from Micro
+[14:00:52][Debug]: Removing vessel d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 from Micro
+[14:00:52][Debug]: Saving kerbal Dangard Kerman from Micro
+[14:00:53][Debug]: Micro failed to release lock Kerbal - Bob Kerman - Micro
+[14:00:53][Debug]: Micro failed to release lock Kerbal - Bill Kerman - Micro
+[14:00:53][Debug]: Micro failed to release lock Kerbal - Dangard Kerman - Micro
+[14:00:53][Debug]: Sending Micro 1 vessels
+[14:00:59][Debug]: Micro acquired lock Kerbal - Jebediah Kerman - Micro
+[14:00:59][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:00:59][Debug]: Saving kerbal Jebediah Kerman from Java
+[14:00:59][Debug]: Saving kerbal Mito Kerman from Java
+[14:00:59][Debug]: Saving kerbal Fergas Kerman from Java
+[14:00:59][Debug]: Saving kerbal Malbrett Kerman from Java
+[14:01:01][Debug]: Sending 7dxe 2 vessels
+[14:01:05][Debug]: Performing backups...
+[14:01:05][Debug]: Micro acquired lock Control - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:06][Debug]: Micro acquired lock Update - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:06][Debug]: Saving 2 scenario modules from Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[14:01:06][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[14:01:06][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:01:06][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:01:07][Debug]: Coupling message received! Dominant vessel: 1d43f04c-c232-4c70-bceb-d85d10e16a61
+[14:01:07][Debug]: Removing weak coupled vessel 96f9aa2f-38ab-48aa-8306-4f2b3d1c0f4c
+[14:01:07][Debug]: Saving vessel 1d43f04c-c232-4c70-bceb-d85d10e16a61 (167,34 KB) from Micro.
+[14:01:07][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:01:11][Debug]: Sending 7dxe 2 vessels
+[14:01:12][Debug]: Java acquired lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Java
+[14:01:12][Debug]: Java acquired lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Java
+[14:01:12][Debug]: Java acquired lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Java
+[14:01:13][Debug]: Java released lock UnloadedUpdate - f56559a6-744d-4849-b51d-8111e1f777b6 - Java
+[14:01:13][Debug]: Java released lock UnloadedUpdate - d6d8c719-eae1-4f5f-9439-d3b25d6d9a43 - Java
+[14:01:13][Debug]: Java released lock UnloadedUpdate - e603ad95-a89e-4f27-8033-356871fee09c - Java
+[14:01:16][Debug]: Sending Micro 3 vessels
+[14:01:21][Debug]: Sending 7dxe 2 vessels
+[14:01:23][Debug]: Sending Java 3 vessels
+[14:01:26][Debug]: Sending Micro 1 vessels
+[14:01:26][Debug]: Java sent Connection end message, reason: Quit to main menu
+[14:01:26][Debug]: Online Players: 2, connected: 2
+[14:01:31][Debug]: Sending 7dxe 2 vessels
+[14:01:35][Debug]: Performing backups...
+[14:01:40][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:01:40][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:01:40][Debug]: Micro released lock Kerbal - Jebediah Kerman - Micro
+[14:01:40][Debug]: Micro released lock Control - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:40][Debug]: Micro released lock Update - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 1d43f04c-c232-4c70-bceb-d85d10e16a61 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[14:01:40][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[14:01:48][Debug]: 7dxe acquired lock Control - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock Update - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[14:01:48][Debug]: 7dxe acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[14:01:50][Debug]: Sending Micro 1 vessels
+[14:01:50][Debug]: Saving vessel e7cb546b-5a54-4f04-82f9-416619355e80 (226,756 KB) from 7dxe.
+[14:01:58][Debug]: Performing a GarbageCollection
+[14:01:58][Debug]: Sending 7dxe 3 vessels
+[14:01:59][Debug]: Saving kerbal Jebediah Kerman from 7dxe
+[14:02:00][Debug]: Sending Micro 2 vessels
+[14:02:05][Debug]: Performing backups...
+[14:02:08][Debug]: Sending 7dxe 2 vessels
+[14:02:10][Debug]: Sending Micro 2 vessels
+[14:02:18][Debug]: Sending 7dxe 2 vessels
+[14:02:20][Debug]: Sending Micro 2 vessels
+[14:02:28][Debug]: Sending 7dxe 2 vessels
+[14:02:30][Debug]: Sending Micro 2 vessels
+[14:02:35][Debug]: Performing backups...
+[14:02:38][Debug]: Sending 7dxe 2 vessels
+[14:02:40][Debug]: Sending Micro 2 vessels
+[14:02:48][Debug]: Sending 7dxe 2 vessels
+[14:02:50][Debug]: Sending Micro 2 vessels
+[14:02:58][Debug]: Sending 7dxe 2 vessels
+[14:03:00][Debug]: Sending Micro 2 vessels
+[14:03:05][Debug]: Performing backups...
+[14:03:08][Debug]: Sending 7dxe 2 vessels
+[14:03:10][Debug]: Sending Micro 2 vessels
+[14:03:18][Debug]: Sending 7dxe 2 vessels
+[14:03:20][Debug]: Sending Micro 2 vessels
+[14:03:28][Debug]: Sending 7dxe 2 vessels
+[14:03:30][Debug]: Sending Micro 2 vessels
+[14:03:35][Debug]: Performing backups...
+[14:03:39][Debug]: Sending 7dxe 2 vessels
+[14:03:40][Debug]: Sending Micro 2 vessels
+[14:03:48][Debug]: Sending 7dxe 2 vessels
+[14:03:50][Debug]: Sending Micro 2 vessels
+[14:03:59][Debug]: Sending 7dxe 2 vessels
+[14:04:00][Debug]: Sending Micro 2 vessels
+[14:04:05][Debug]: Performing backups...
+[14:04:09][Debug]: Sending 7dxe 2 vessels
+[14:04:10][Debug]: Sending Micro 2 vessels
+[14:04:19][Debug]: Sending 7dxe 2 vessels
+[14:04:20][Debug]: Sending Micro 2 vessels
+[14:04:29][Debug]: Sending 7dxe 2 vessels
+[14:04:30][Debug]: Sending Micro 2 vessels
+[14:04:35][Debug]: Performing backups...
+[14:04:39][Debug]: Sending 7dxe 2 vessels
+[14:04:40][Debug]: Sending Micro 2 vessels
+[14:04:49][Debug]: Sending 7dxe 2 vessels
+[14:04:50][Debug]: Sending Micro 2 vessels
+[14:04:59][Debug]: Sending 7dxe 2 vessels
+[14:05:00][Debug]: Sending Micro 2 vessels
+[14:05:06][Debug]: Performing backups...
+[14:05:09][Debug]: Sending 7dxe 2 vessels
+[14:05:10][Debug]: Sending Micro 2 vessels
+[14:05:19][Debug]: Sending 7dxe 2 vessels
+[14:05:20][Debug]: Sending Micro 2 vessels
+[14:05:29][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:05:29][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:05:29][Debug]: Sending 7dxe 2 vessels
+[14:05:30][Debug]: Sending Micro 14 vessels
+[14:05:36][Debug]: Performing backups...
+[14:05:39][Debug]: Sending 7dxe 2 vessels
+[14:05:40][Debug]: Sending Micro 2 vessels
+[14:05:49][Debug]: Sending 7dxe 2 vessels
+[14:05:50][Debug]: Sending Micro 2 vessels
+[14:05:59][Debug]: Sending 7dxe 2 vessels
+[14:06:00][Debug]: Sending Micro 2 vessels
+[14:06:06][Debug]: Performing backups...
+[14:06:09][Debug]: Sending 7dxe 2 vessels
+[14:06:10][Debug]: Sending Micro 2 vessels
+[14:06:19][Debug]: Sending 7dxe 2 vessels
+[14:06:20][Debug]: Sending Micro 2 vessels
+[14:06:29][Debug]: Sending 7dxe 2 vessels
+[14:06:30][Debug]: Sending Micro 2 vessels
+[14:06:36][Debug]: Performing backups...
+[14:06:39][Debug]: Sending 7dxe 2 vessels
+[14:06:40][Debug]: Sending Micro 2 vessels
+[14:06:44][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:06:44][Debug]: Removing vessel 1d43f04c-c232-4c70-bceb-d85d10e16a61 from Micro
+[14:06:44][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:06:45][Debug]: Micro failed to release lock Kerbal - Jebediah Kerman - Micro
+[14:06:49][Debug]: Sending 7dxe 2 vessels
+[14:06:49][Debug]: Micro acquired lock Kerbal - Jebediah Kerman - Micro
+[14:06:49][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:06:56][Debug]: Micro acquired lock Control - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:06:57][Debug]: Micro acquired lock Update - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:06:57][Debug]: Micro acquired lock UnloadedUpdate - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:06:57][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:06:57][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:06:57][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:06:57][Debug]: Coupling message received! Dominant vessel: 3876959b-86a5-4208-a95b-5f4e2c48e44e
+[14:06:57][Debug]: Removing weak coupled vessel 3e0a4952-9586-44a8-8bfd-0edc44a118fa
+[14:06:57][Debug]: Saving vessel 3876959b-86a5-4208-a95b-5f4e2c48e44e (167,383 KB) from Micro.
+[14:06:58][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:06:59][Debug]: Sending 7dxe 2 vessels
+[14:07:06][Debug]: Performing backups...
+[14:07:07][Debug]: Sending Micro 2 vessels
+[14:07:09][Debug]: Sending 7dxe 2 vessels
+[14:07:17][Debug]: Sending Micro 2 vessels
+[14:07:19][Debug]: Sending 7dxe 2 vessels
+[14:07:27][Debug]: Sending Micro 2 vessels
+[14:07:29][Debug]: Sending 7dxe 2 vessels
+[14:07:31][Debug]: Saving kerbal Jebediah Kerman from Micro
+[14:07:31][Debug]: Removing vessel 3876959b-86a5-4208-a95b-5f4e2c48e44e from Micro
+[14:07:33][Debug]: Micro released lock Control - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:07:33][Debug]: Micro released lock Update - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:07:33][Debug]: Micro released lock Kerbal - Jebediah Kerman - Micro
+[14:07:33][Debug]: Micro released lock UnloadedUpdate - 3876959b-86a5-4208-a95b-5f4e2c48e44e - Micro
+[14:07:33][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:07:33][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:07:36][Debug]: Performing backups...
+[14:07:37][Debug]: Sending Micro 13 vessels
+[14:07:39][Debug]: Sending 7dxe 2 vessels
+[14:07:47][Debug]: Sending Micro 2 vessels
+[14:07:57][Debug]: Sending Micro 2 vessels
+[14:07:57][Debug]: 7dxe released lock Control - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:07:57][Debug]: 7dxe released lock Update - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - e7cb546b-5a54-4f04-82f9-416619355e80 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[14:07:57][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[14:08:06][Debug]: Performing backups...
+[14:08:07][Debug]: Sending Micro 2 vessels
+[14:08:07][Debug]: Sending 7dxe 2 vessels
+[14:08:17][Debug]: Sending Micro 2 vessels
+[14:08:17][Debug]: Sending 7dxe 2 vessels
+[14:08:27][Debug]: Removing vessel e7cb546b-5a54-4f04-82f9-416619355e80 from 7dxe
+[14:08:27][Debug]: 7dxe acquired lock Kerbal - Jebediah Kerman - 7dxe
+[14:08:27][Debug]: Saving kerbal Jebediah Kerman from 7dxe
+[14:08:32][Debug]: Micro acquired lock Control - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:08:33][Debug]: Micro acquired lock Update - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:08:33][Debug]: Micro acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[14:08:34][Debug]: Saving vessel 5ca9a2f1-c401-45dd-a233-93ff89598391 (153,444 KB) from Micro.
+[14:08:35][Debug]: 7dxe acquired lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:08:35][Debug]: 7dxe acquired lock Update - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:08:35][Debug]: 7dxe acquired lock UnloadedUpdate - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:08:35][Debug]: 7dxe acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[14:08:36][Debug]: Performing backups...
+[14:08:38][Debug]: Saving vessel 700e76cf-bd19-49e1-b77b-07f1fe9126e0 (275,812 KB) from 7dxe.
+[14:08:43][Debug]: Sending Micro 2 vessels
+[14:08:45][Debug]: Sending 7dxe 2 vessels
+[14:08:53][Debug]: Sending Micro 2 vessels
+[14:08:55][Debug]: Sending 7dxe 2 vessels
+[14:09:03][Debug]: Sending Micro 2 vessels
+[14:09:05][Debug]: Sending 7dxe 2 vessels
+[14:09:06][Debug]: Performing backups...
+[14:09:13][Debug]: Sending Micro 2 vessels
+[14:09:15][Debug]: 7dxe acquired lock UnloadedUpdate - 9f9a5f24-ced5-477a-bc7e-59771973ea6c - 7dxe
+[14:09:15][Debug]: 7dxe acquired lock Update - 9f9a5f24-ced5-477a-bc7e-59771973ea6c - 7dxe
+[14:09:15][Debug]: 7dxe acquired lock UnloadedUpdate - de3e6504-705b-4515-ad19-0e0a049d207e - 7dxe
+[14:09:15][Debug]: 7dxe acquired lock Update - de3e6504-705b-4515-ad19-0e0a049d207e - 7dxe
+[14:09:15][Debug]: Saving vessel 9f9a5f24-ced5-477a-bc7e-59771973ea6c (81,243 KB) from 7dxe.
+[14:09:15][Debug]: Saving vessel de3e6504-705b-4515-ad19-0e0a049d207e (83,603 KB) from 7dxe.
+[14:09:15][Debug]: Sending 7dxe 2 vessels
+[14:09:16][Debug]: 7dxe acquired lock Update - 6f2ef93c-8fe2-4ca6-9d3d-e776e7dc50d7 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 6f2ef93c-8fe2-4ca6-9d3d-e776e7dc50d7 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 41e91046-6ed8-4762-b241-a3d5a09029ee - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 41e91046-6ed8-4762-b241-a3d5a09029ee - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - b7d3d6c1-40a5-439d-8d97-2be26b0bd950 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - b7d3d6c1-40a5-439d-8d97-2be26b0bd950 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - d5df601d-3d60-4b85-a975-134b87c9e058 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - d5df601d-3d60-4b85-a975-134b87c9e058 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 6e755947-713c-4046-900d-90e81247850b - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 6e755947-713c-4046-900d-90e81247850b - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 1f57b6d0-b50a-4aba-91c8-be46807eb64f - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 1f57b6d0-b50a-4aba-91c8-be46807eb64f - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - c5d3a681-e198-426c-ba4a-755fc1fb7d13 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - c5d3a681-e198-426c-ba4a-755fc1fb7d13 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 1cf6c6cd-ccf3-4176-9265-b33b6400b603 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 1cf6c6cd-ccf3-4176-9265-b33b6400b603 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 7337b3e6-983b-4e6a-ae7f-dd68b11d2d21 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 7337b3e6-983b-4e6a-ae7f-dd68b11d2d21 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 77db98fb-ae56-4034-8869-33b3afcd121e - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 77db98fb-ae56-4034-8869-33b3afcd121e - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - d3d783e1-70d7-4461-91d1-71c2896dfc22 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - d3d783e1-70d7-4461-91d1-71c2896dfc22 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 7fcdfe54-554f-4024-af2f-9652919868b5 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 7fcdfe54-554f-4024-af2f-9652919868b5 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 1af78493-de04-423f-8de8-546205745cb1 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 1af78493-de04-423f-8de8-546205745cb1 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 366fa4a3-3317-4ef3-9bb3-70d876876a42 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 366fa4a3-3317-4ef3-9bb3-70d876876a42 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 6e300cb5-8634-4ca6-89fd-ab31d91f975c - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 6e300cb5-8634-4ca6-89fd-ab31d91f975c - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - dfbe151e-ec41-41d9-b9f5-e78d1163d3bc - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - dfbe151e-ec41-41d9-b9f5-e78d1163d3bc - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - e5713b48-c56e-49c6-ba14-618b574976af - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - e5713b48-c56e-49c6-ba14-618b574976af - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - ea4b98bf-0ee4-48ca-b794-99733ac6d721 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - ea4b98bf-0ee4-48ca-b794-99733ac6d721 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - a101dd41-1aa9-4cff-9dae-9588f8e45f16 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - a101dd41-1aa9-4cff-9dae-9588f8e45f16 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - d46fcb5f-090e-4d3d-ac28-cb27caccb883 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - d46fcb5f-090e-4d3d-ac28-cb27caccb883 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - d710a519-dfc3-4c62-b95b-8d7a1bee6468 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - d710a519-dfc3-4c62-b95b-8d7a1bee6468 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 76650259-5815-411e-8614-5a79e07a6030 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 76650259-5815-411e-8614-5a79e07a6030 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - bb8932ff-cd20-43f2-b334-1648534a575c - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - bb8932ff-cd20-43f2-b334-1648534a575c - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock UnloadedUpdate - 38771951-b540-42f0-b6e8-ea56a11ecaf4 - 7dxe
+[14:09:16][Debug]: 7dxe acquired lock Update - 38771951-b540-42f0-b6e8-ea56a11ecaf4 - 7dxe
+[14:09:16][Debug]: Saving vessel d5df601d-3d60-4b85-a975-134b87c9e058 (7,211 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 6e755947-713c-4046-900d-90e81247850b (6,035 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 (6,036 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 1cf6c6cd-ccf3-4176-9265-b33b6400b603 (6,904 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 77db98fb-ae56-4034-8869-33b3afcd121e (5,711 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 (5,73 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 (5,726 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 7fcdfe54-554f-4024-af2f-9652919868b5 (5,726 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b (5,73 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 366fa4a3-3317-4ef3-9bb3-70d876876a42 (5,723 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 (5,725 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel ea4b98bf-0ee4-48ca-b794-99733ac6d721 (5,724 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel a101dd41-1aa9-4cff-9dae-9588f8e45f16 (5,72 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel d46fcb5f-090e-4d3d-ac28-cb27caccb883 (5,726 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel d710a519-dfc3-4c62-b95b-8d7a1bee6468 (6,036 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel 76650259-5815-411e-8614-5a79e07a6030 (6,033 KB) from 7dxe.
+[14:09:16][Debug]: Saving vessel bb8932ff-cd20-43f2-b334-1648534a575c (6,037 KB) from 7dxe.
+[14:09:16][Debug]: Removing vessel de3e6504-705b-4515-ad19-0e0a049d207e from 7dxe
+[14:09:16][Debug]: Removing vessel 6e755947-713c-4046-900d-90e81247850b from 7dxe
+[14:09:16][Debug]: Removing vessel d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 from 7dxe
+[14:09:16][Debug]: Removing vessel d5df601d-3d60-4b85-a975-134b87c9e058 from 7dxe
+[14:09:16][Debug]: Removing vessel d710a519-dfc3-4c62-b95b-8d7a1bee6468 from 7dxe
+[14:09:16][Debug]: Removing vessel bb8932ff-cd20-43f2-b334-1648534a575c from 7dxe
+[14:09:16][Debug]: Removing vessel 9f9a5f24-ced5-477a-bc7e-59771973ea6c from 7dxe
+[14:09:16][Debug]: Removing vessel 7fcdfe54-554f-4024-af2f-9652919868b5 from 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 41e91046-6ed8-4762-b241-a3d5a09029ee - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 41e91046-6ed8-4762-b241-a3d5a09029ee - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 1f57b6d0-b50a-4aba-91c8-be46807eb64f - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 1f57b6d0-b50a-4aba-91c8-be46807eb64f - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - b7d3d6c1-40a5-439d-8d97-2be26b0bd950 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - b7d3d6c1-40a5-439d-8d97-2be26b0bd950 - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - c5d3a681-e198-426c-ba4a-755fc1fb7d13 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - c5d3a681-e198-426c-ba4a-755fc1fb7d13 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 6f2ef93c-8fe2-4ca6-9d3d-e776e7dc50d7 - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 6f2ef93c-8fe2-4ca6-9d3d-e776e7dc50d7 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 38771951-b540-42f0-b6e8-ea56a11ecaf4 - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 38771951-b540-42f0-b6e8-ea56a11ecaf4 - 7dxe
+[14:09:16][Debug]: Removing vessel 76650259-5815-411e-8614-5a79e07a6030 from 7dxe
+[14:09:16][Debug]: Removing vessel 1cf6c6cd-ccf3-4176-9265-b33b6400b603 from 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 6e300cb5-8634-4ca6-89fd-ab31d91f975c - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 7337b3e6-983b-4e6a-ae7f-dd68b11d2d21 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 6e300cb5-8634-4ca6-89fd-ab31d91f975c - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 7337b3e6-983b-4e6a-ae7f-dd68b11d2d21 - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - d3d783e1-70d7-4461-91d1-71c2896dfc22 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - e5713b48-c56e-49c6-ba14-618b574976af - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - e5713b48-c56e-49c6-ba14-618b574976af - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - d3d783e1-70d7-4461-91d1-71c2896dfc22 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - dfbe151e-ec41-41d9-b9f5-e78d1163d3bc - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - dfbe151e-ec41-41d9-b9f5-e78d1163d3bc - 7dxe
+[14:09:16][Debug]: 7dxe released lock Update - 1af78493-de04-423f-8de8-546205745cb1 - 7dxe
+[14:09:16][Debug]: 7dxe released lock UnloadedUpdate - 1af78493-de04-423f-8de8-546205745cb1 - 7dxe
+[14:09:17][Debug]: Removing vessel a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 from 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - de3e6504-705b-4515-ad19-0e0a049d207e - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - de3e6504-705b-4515-ad19-0e0a049d207e - 7dxe
+[14:09:17][Debug]: Removing vessel 77db98fb-ae56-4034-8869-33b3afcd121e from 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 6e755947-713c-4046-900d-90e81247850b - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 6e755947-713c-4046-900d-90e81247850b - 7dxe
+[14:09:17][Debug]: Removing vessel 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 from 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - d0d8116a-0bee-46d4-aac5-b9bf9dcc9078 - 7dxe
+[14:09:17][Debug]: Removing vessel 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 from 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - d5df601d-3d60-4b85-a975-134b87c9e058 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - d5df601d-3d60-4b85-a975-134b87c9e058 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - d710a519-dfc3-4c62-b95b-8d7a1bee6468 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - d710a519-dfc3-4c62-b95b-8d7a1bee6468 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - bb8932ff-cd20-43f2-b334-1648534a575c - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 9f9a5f24-ced5-477a-bc7e-59771973ea6c - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - bb8932ff-cd20-43f2-b334-1648534a575c - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 9f9a5f24-ced5-477a-bc7e-59771973ea6c - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 7fcdfe54-554f-4024-af2f-9652919868b5 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 7fcdfe54-554f-4024-af2f-9652919868b5 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 76650259-5815-411e-8614-5a79e07a6030 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 76650259-5815-411e-8614-5a79e07a6030 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 1cf6c6cd-ccf3-4176-9265-b33b6400b603 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 1cf6c6cd-ccf3-4176-9265-b33b6400b603 - 7dxe
+[14:09:17][Debug]: Removing vessel 366fa4a3-3317-4ef3-9bb3-70d876876a42 from 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - a3d30fb0-fba6-48fc-93cb-4c14d87b6af4 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 77db98fb-ae56-4034-8869-33b3afcd121e - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 77db98fb-ae56-4034-8869-33b3afcd121e - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 7ec323aa-b71d-4ecd-9ebd-6d0a04b4bea8 - 7dxe
+[14:09:17][Debug]: 7dxe released lock Update - 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 - 7dxe
+[14:09:17][Debug]: 7dxe released lock UnloadedUpdate - 596fc6e8-90c7-40ed-aedc-ceeb6ea464b7 - 7dxe
+[14:09:17][Debug]: Removing vessel a101dd41-1aa9-4cff-9dae-9588f8e45f16 from 7dxe
+[14:09:18][Debug]: 7dxe released lock Update - 366fa4a3-3317-4ef3-9bb3-70d876876a42 - 7dxe
+[14:09:18][Debug]: 7dxe released lock UnloadedUpdate - 366fa4a3-3317-4ef3-9bb3-70d876876a42 - 7dxe
+[14:09:18][Debug]: Removing vessel ea4b98bf-0ee4-48ca-b794-99733ac6d721 from 7dxe
+[14:09:18][Debug]: Removing vessel a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b from 7dxe
+[14:09:18][Debug]: 7dxe released lock UnloadedUpdate - a101dd41-1aa9-4cff-9dae-9588f8e45f16 - 7dxe
+[14:09:18][Debug]: 7dxe released lock Update - a101dd41-1aa9-4cff-9dae-9588f8e45f16 - 7dxe
+[14:09:18][Debug]: 7dxe released lock Update - ea4b98bf-0ee4-48ca-b794-99733ac6d721 - 7dxe
+[14:09:18][Debug]: 7dxe released lock UnloadedUpdate - ea4b98bf-0ee4-48ca-b794-99733ac6d721 - 7dxe
+[14:09:18][Debug]: 7dxe released lock Update - a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b - 7dxe
+[14:09:18][Debug]: 7dxe released lock UnloadedUpdate - a9d5aeb6-8dff-40c7-8a13-b06141bc2e9b - 7dxe
+[14:09:18][Debug]: Removing vessel d46fcb5f-090e-4d3d-ac28-cb27caccb883 from 7dxe
+[14:09:19][Debug]: Removing vessel 700e76cf-bd19-49e1-b77b-07f1fe9126e0 from 7dxe
+[14:09:23][Debug]: Sending Micro 1 vessels
+[14:09:28][Debug]: 7dxe released lock Update - d46fcb5f-090e-4d3d-ac28-cb27caccb883 - 7dxe
+[14:09:28][Debug]: 7dxe released lock UnloadedUpdate - d46fcb5f-090e-4d3d-ac28-cb27caccb883 - 7dxe
+[14:09:28][Debug]: Saving vessel 700e76cf-bd19-49e1-b77b-07f1fe9126e0 (275,79 KB) from 7dxe.
+[14:09:33][Debug]: Sending Micro 2 vessels
+[14:09:36][Debug]: Sending 7dxe 2 vessels
+[14:09:36][Debug]: Performing backups...
+[14:09:43][Debug]: Sending Micro 2 vessels
+[14:09:46][Debug]: Sending 7dxe 2 vessels
+[14:09:53][Debug]: Sending Micro 2 vessels
+[14:09:56][Debug]: Sending 7dxe 2 vessels
+[14:10:00][Debug]: Removing vessel 5ca9a2f1-c401-45dd-a233-93ff89598391 from Micro
+[14:10:02][Debug]: Micro released lock Control - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:10:02][Debug]: Micro released lock Update - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[14:10:02][Debug]: Micro released lock UnloadedUpdate - 5ca9a2f1-c401-45dd-a233-93ff89598391 - Micro
+[14:10:02][Debug]: 7dxe acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[14:10:02][Debug]: 7dxe acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[14:10:02][Debug]: 7dxe acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[14:10:02][Debug]: 7dxe acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[14:10:03][Debug]: 7dxe acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[14:10:03][Debug]: 7dxe acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[14:10:03][Debug]: 7dxe acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[14:10:03][Debug]: 7dxe acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[14:10:03][Debug]: 7dxe acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[14:10:06][Debug]: Sending 7dxe 2 vessels
+[14:10:06][Debug]: Performing backups...
+[14:10:13][Debug]: Sending Micro 13 vessels
+[14:10:16][Debug]: Sending 7dxe 2 vessels
+[14:10:23][Debug]: Sending Micro 2 vessels
+[14:10:26][Debug]: Sending 7dxe 2 vessels
+[14:10:33][Debug]: Sending Micro 2 vessels
+[14:10:36][Debug]: Sending 7dxe 2 vessels
+[14:10:36][Debug]: Performing backups...
+[14:10:43][Debug]: Sending Micro 2 vessels
+[14:10:46][Debug]: Sending 7dxe 2 vessels
+[14:10:50][Debug]: 7dxe acquired lock Update - f8e5b22c-6764-4b8e-ba95-60eb076031c9 - 7dxe
+[14:10:50][Debug]: 7dxe acquired lock UnloadedUpdate - f8e5b22c-6764-4b8e-ba95-60eb076031c9 - 7dxe
+[14:10:50][Debug]: 7dxe acquired lock Update - 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 - 7dxe
+[14:10:50][Debug]: 7dxe acquired lock UnloadedUpdate - 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 - 7dxe
+[14:10:51][Debug]: Saving vessel f8e5b22c-6764-4b8e-ba95-60eb076031c9 (81,277 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 (83,648 KB) from 7dxe.
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 2a70e585-853c-42de-95b9-f31ae53ef4ad - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 2a70e585-853c-42de-95b9-f31ae53ef4ad - 7dxe
+[14:10:51][Debug]: Removing vessel f8e5b22c-6764-4b8e-ba95-60eb076031c9 from 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 3869c072-b622-4a23-b683-387b9b003f5d - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 3869c072-b622-4a23-b683-387b9b003f5d - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 1a2d972e-c052-4a2d-951e-10007487c221 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 1a2d972e-c052-4a2d-951e-10007487c221 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 36258c49-b2e2-4f16-a14e-19e4f4bb4eac - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 36258c49-b2e2-4f16-a14e-19e4f4bb4eac - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 264be212-af00-4925-86b6-58d5fb955940 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 264be212-af00-4925-86b6-58d5fb955940 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - a10f74e4-7f12-4fed-9255-9818a7578847 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - a10f74e4-7f12-4fed-9255-9818a7578847 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 380fab22-9e15-4729-948f-823183e8fa9b - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 380fab22-9e15-4729-948f-823183e8fa9b - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 580cdb6e-eae6-4210-af5a-451a6af72954 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 580cdb6e-eae6-4210-af5a-451a6af72954 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 0d670b8d-fba9-4edc-816b-11ea0de8c368 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 0d670b8d-fba9-4edc-816b-11ea0de8c368 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - a0fb948a-43f1-4dfe-b8e8-37f6f3f086e8 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - a0fb948a-43f1-4dfe-b8e8-37f6f3f086e8 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - bc28d661-781f-428f-bd01-623ae7b6e61f - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - bc28d661-781f-428f-bd01-623ae7b6e61f - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 79859b73-c429-411e-ac93-593bddcff7da - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 79859b73-c429-411e-ac93-593bddcff7da - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - e41d2251-3012-4472-8d8d-f900ba2ce4ee - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - e41d2251-3012-4472-8d8d-f900ba2ce4ee - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - cc45dfe8-6250-4949-b19f-d61111f99032 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - cc45dfe8-6250-4949-b19f-d61111f99032 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - ee3e2bc5-512a-48a3-9b63-c4e53f30e694 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - ee3e2bc5-512a-48a3-9b63-c4e53f30e694 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - da87ffda-fb1e-402d-85a7-736a03cf7714 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - da87ffda-fb1e-402d-85a7-736a03cf7714 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 1ee499c8-b491-432e-a06d-ebcefdfcdbe6 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 1ee499c8-b491-432e-a06d-ebcefdfcdbe6 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - a364f348-9974-40bc-b5f3-9eab5f7ec8a6 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - a364f348-9974-40bc-b5f3-9eab5f7ec8a6 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 20b14540-72ff-4003-ba42-cc573e6a63e8 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 20b14540-72ff-4003-ba42-cc573e6a63e8 - 7dxe
+[14:10:51][Debug]: Removing vessel 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 from 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 2a724ad7-df76-439d-b501-997e2a4f2f52 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 2a724ad7-df76-439d-b501-997e2a4f2f52 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - e4dcfaca-c38a-403e-bf57-d68e8c02e0f5 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - e4dcfaca-c38a-403e-bf57-d68e8c02e0f5 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 85efad87-b3da-4112-b7b4-2eef708a6411 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 85efad87-b3da-4112-b7b4-2eef708a6411 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 59d93f98-57b4-4f85-bb39-fc3f0989cac3 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 59d93f98-57b4-4f85-bb39-fc3f0989cac3 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 0bae8710-fc80-4038-a17e-3ee80957fedc - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 0bae8710-fc80-4038-a17e-3ee80957fedc - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 733f874d-58bc-4e3a-bb8c-9f69e38813be - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 733f874d-58bc-4e3a-bb8c-9f69e38813be - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - a87d7246-a58c-4012-8baf-85be606dbb65 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - a87d7246-a58c-4012-8baf-85be606dbb65 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 546178ac-fd53-4465-b7fd-cc03a7ad493c - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 546178ac-fd53-4465-b7fd-cc03a7ad493c - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 77bc2052-f6ad-4c1e-8ec3-d39e45221606 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 77bc2052-f6ad-4c1e-8ec3-d39e45221606 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 5ef52484-8d32-459d-b99c-0cd97081808a - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 5ef52484-8d32-459d-b99c-0cd97081808a - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 08989ff6-1e6f-4d8d-a712-68454d1e7ade - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 08989ff6-1e6f-4d8d-a712-68454d1e7ade - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 8c148b17-1459-4ec2-bc2e-c30d238c0c48 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 8c148b17-1459-4ec2-bc2e-c30d238c0c48 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock UnloadedUpdate - 74a362dc-2174-46ad-a10b-e7bbe18ea2f7 - 7dxe
+[14:10:51][Debug]: 7dxe acquired lock Update - 74a362dc-2174-46ad-a10b-e7bbe18ea2f7 - 7dxe
+[14:10:51][Debug]: Saving vessel 36258c49-b2e2-4f16-a14e-19e4f4bb4eac (6,058 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 20b14540-72ff-4003-ba42-cc573e6a63e8 (13,866 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 0bae8710-fc80-4038-a17e-3ee80957fedc (6,924 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel a87d7246-a58c-4012-8baf-85be606dbb65 (5,75 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 546178ac-fd53-4465-b7fd-cc03a7ad493c (5,743 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 77bc2052-f6ad-4c1e-8ec3-d39e45221606 (5,742 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 08989ff6-1e6f-4d8d-a712-68454d1e7ade (5,746 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 8c148b17-1459-4ec2-bc2e-c30d238c0c48 (5,746 KB) from 7dxe.
+[14:10:51][Debug]: Saving vessel 74a362dc-2174-46ad-a10b-e7bbe18ea2f7 (13,268 KB) from 7dxe.
+[14:10:51][Debug]: Removing vessel a87d7246-a58c-4012-8baf-85be606dbb65 from 7dxe
+[14:10:51][Debug]: Removing vessel 36258c49-b2e2-4f16-a14e-19e4f4bb4eac from 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - f8e5b22c-6764-4b8e-ba95-60eb076031c9 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 2a70e585-853c-42de-95b9-f31ae53ef4ad - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 2a70e585-853c-42de-95b9-f31ae53ef4ad - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - f8e5b22c-6764-4b8e-ba95-60eb076031c9 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 3869c072-b622-4a23-b683-387b9b003f5d - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 3869c072-b622-4a23-b683-387b9b003f5d - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 580cdb6e-eae6-4210-af5a-451a6af72954 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 580cdb6e-eae6-4210-af5a-451a6af72954 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 1ee499c8-b491-432e-a06d-ebcefdfcdbe6 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - bc28d661-781f-428f-bd01-623ae7b6e61f - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 1ee499c8-b491-432e-a06d-ebcefdfcdbe6 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - bc28d661-781f-428f-bd01-623ae7b6e61f - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 79859b73-c429-411e-ac93-593bddcff7da - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 79859b73-c429-411e-ac93-593bddcff7da - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - e41d2251-3012-4472-8d8d-f900ba2ce4ee - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - e41d2251-3012-4472-8d8d-f900ba2ce4ee - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - ee3e2bc5-512a-48a3-9b63-c4e53f30e694 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - cc45dfe8-6250-4949-b19f-d61111f99032 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - ee3e2bc5-512a-48a3-9b63-c4e53f30e694 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - a10f74e4-7f12-4fed-9255-9818a7578847 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - a10f74e4-7f12-4fed-9255-9818a7578847 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - a364f348-9974-40bc-b5f3-9eab5f7ec8a6 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - cc45dfe8-6250-4949-b19f-d61111f99032 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - a364f348-9974-40bc-b5f3-9eab5f7ec8a6 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 1a2d972e-c052-4a2d-951e-10007487c221 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 1a2d972e-c052-4a2d-951e-10007487c221 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 264be212-af00-4925-86b6-58d5fb955940 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 264be212-af00-4925-86b6-58d5fb955940 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 0d670b8d-fba9-4edc-816b-11ea0de8c368 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - a0fb948a-43f1-4dfe-b8e8-37f6f3f086e8 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - a0fb948a-43f1-4dfe-b8e8-37f6f3f086e8 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - da87ffda-fb1e-402d-85a7-736a03cf7714 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 0d670b8d-fba9-4edc-816b-11ea0de8c368 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - da87ffda-fb1e-402d-85a7-736a03cf7714 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 46bc8c78-1ab8-4ab5-a9de-e43d8de078c2 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 2a724ad7-df76-439d-b501-997e2a4f2f52 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - e4dcfaca-c38a-403e-bf57-d68e8c02e0f5 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 2a724ad7-df76-439d-b501-997e2a4f2f52 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 85efad87-b3da-4112-b7b4-2eef708a6411 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 85efad87-b3da-4112-b7b4-2eef708a6411 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 59d93f98-57b4-4f85-bb39-fc3f0989cac3 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 5ef52484-8d32-459d-b99c-0cd97081808a - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - e4dcfaca-c38a-403e-bf57-d68e8c02e0f5 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 380fab22-9e15-4729-948f-823183e8fa9b - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 5ef52484-8d32-459d-b99c-0cd97081808a - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 380fab22-9e15-4729-948f-823183e8fa9b - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 59d93f98-57b4-4f85-bb39-fc3f0989cac3 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 733f874d-58bc-4e3a-bb8c-9f69e38813be - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 733f874d-58bc-4e3a-bb8c-9f69e38813be - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - a87d7246-a58c-4012-8baf-85be606dbb65 - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - a87d7246-a58c-4012-8baf-85be606dbb65 - 7dxe
+[14:10:52][Debug]: 7dxe released lock UnloadedUpdate - 36258c49-b2e2-4f16-a14e-19e4f4bb4eac - 7dxe
+[14:10:52][Debug]: 7dxe released lock Update - 36258c49-b2e2-4f16-a14e-19e4f4bb4eac - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock UnloadedUpdate - c4b4d21c-fc8b-4071-8521-839c6fd0ddf4 - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock Update - c4b4d21c-fc8b-4071-8521-839c6fd0ddf4 - 7dxe
+[14:10:52][Debug]: Saving vessel c4b4d21c-fc8b-4071-8521-839c6fd0ddf4 (11,005 KB) from 7dxe.
+[14:10:52][Debug]: 7dxe acquired lock UnloadedUpdate - ea180335-f644-4f82-826c-77aa32541a8f - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock Update - ea180335-f644-4f82-826c-77aa32541a8f - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock UnloadedUpdate - 53bdb940-e76a-407f-9365-8df4cb1452be - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock Update - 53bdb940-e76a-407f-9365-8df4cb1452be - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock Update - 1f64c551-995d-40df-87d8-b840f75e2b9b - 7dxe
+[14:10:52][Debug]: 7dxe acquired lock UnloadedUpdate - 1f64c551-995d-40df-87d8-b840f75e2b9b - 7dxe
+[14:10:52][LMP]: Removing debris vessel: 546178ac-fd53-4465-b7fd-cc03a7ad493c
+[14:10:52][Debug]: Saving vessel 1f64c551-995d-40df-87d8-b840f75e2b9b (13,246 KB) from 7dxe.
+[14:10:52][LMP]: Removing debris vessel: 74a362dc-2174-46ad-a10b-e7bbe18ea2f7
+[14:10:52][LMP]: Removing debris vessel: 08989ff6-1e6f-4d8d-a712-68454d1e7ade
+[14:10:52][LMP]: Removing debris vessel: 0bae8710-fc80-4038-a17e-3ee80957fedc
+[14:10:52][LMP]: Removing debris vessel: 8c148b17-1459-4ec2-bc2e-c30d238c0c48
+[14:10:52][LMP]: Removing debris vessel: c4b4d21c-fc8b-4071-8521-839c6fd0ddf4
+[14:10:52][LMP]: Removing debris vessel: 77bc2052-f6ad-4c1e-8ec3-d39e45221606
+[14:10:52][LMP]: Removed 7 debris
+[14:10:53][Debug]: 7dxe released lock UnloadedUpdate - ea180335-f644-4f82-826c-77aa32541a8f - 7dxe
+[14:10:53][Debug]: 7dxe released lock Update - ea180335-f644-4f82-826c-77aa32541a8f - 7dxe
+[14:10:53][Debug]: 7dxe released lock UnloadedUpdate - 53bdb940-e76a-407f-9365-8df4cb1452be - 7dxe
+[14:10:53][Debug]: 7dxe released lock Update - 53bdb940-e76a-407f-9365-8df4cb1452be - 7dxe
+[14:10:53][Debug]: Sending Micro 4 vessels
+[14:10:53][Debug]: Removing vessel 20b14540-72ff-4003-ba42-cc573e6a63e8 from 7dxe
+[14:10:53][Debug]: Removing vessel 1f64c551-995d-40df-87d8-b840f75e2b9b from 7dxe
+[14:10:53][Debug]: Removing vessel 700e76cf-bd19-49e1-b77b-07f1fe9126e0 from 7dxe
+[14:11:00][Debug]: 7dxe acquired lock UnloadedUpdate - 5ca9a2f1-c401-45dd-a233-93ff89598391 - 7dxe
+[14:11:02][Debug]: Saving vessel 700e76cf-bd19-49e1-b77b-07f1fe9126e0 (275,799 KB) from 7dxe.
+[14:11:03][Debug]: Sending Micro 2 vessels
+[14:11:07][Debug]: Performing backups...
+[14:11:10][Debug]: Sending 7dxe 2 vessels
+[14:11:13][Debug]: Sending Micro 2 vessels
+[14:11:20][Debug]: Sending 7dxe 2 vessels
+[14:11:23][Debug]: Sending Micro 2 vessels
+[14:11:30][Debug]: Sending 7dxe 2 vessels
+[14:11:33][Debug]: Sending Micro 2 vessels
+[14:11:37][Debug]: Performing backups...
+[14:11:40][Debug]: Sending 7dxe 2 vessels
+[14:11:41][Debug]: Micro synced with subspace '3' created by 7dxe
+[14:11:41][Debug]: Removing abandoned subspace '2'
+[14:11:50][Debug]: Sending 7dxe 2 vessels
+[14:11:50][Debug]: 7dxe acquired lock UnloadedUpdate - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:11:50][Debug]: 7dxe acquired lock Update - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:11:50][Debug]: 7dxe acquired lock UnloadedUpdate - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:11:50][Debug]: 7dxe acquired lock Update - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:11:50][Debug]: Saving vessel c8c23397-e777-4452-b5f9-fc11bbb73c4d (81,257 KB) from 7dxe.
+[14:11:50][Debug]: Saving vessel 6f74781e-b84c-4bb6-bb9f-b953b008780e (83,618 KB) from 7dxe.
+[14:11:55][Debug]: 7dxe released lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:11:55][Debug]: 7dxe acquired lock Control - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:12:00][Debug]: Sending 7dxe 2 vessels
+[14:12:04][Debug]: 7dxe released lock Control - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:12:04][Debug]: 7dxe acquired lock Control - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:12:04][Debug]: 7dxe acquired lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:12:04][Debug]: 7dxe failed to release lock Control - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:12:05][Debug]: 7dxe released lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:12:05][Debug]: 7dxe acquired lock Control - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:12:06][Debug]: 7dxe acquired lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:12:06][Debug]: 7dxe failed to release lock Control - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:12:07][Debug]: Performing backups...
+[14:12:10][Debug]: Sending 7dxe 2 vessels
+[14:12:20][Debug]: Sending 7dxe 2 vessels
+[14:12:30][Debug]: Sending 7dxe 2 vessels
+[14:12:37][Debug]: Performing backups...
+[14:12:40][Debug]: Sending 7dxe 2 vessels
+[14:12:50][Debug]: Sending 7dxe 2 vessels
+[14:12:55][Debug]: 7dxe released lock Update - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:12:57][Debug]: Removing vessel 6f74781e-b84c-4bb6-bb9f-b953b008780e from 7dxe
+[14:12:58][Debug]: 7dxe released lock UnloadedUpdate - 6f74781e-b84c-4bb6-bb9f-b953b008780e - 7dxe
+[14:13:00][Debug]: Sending 7dxe 2 vessels
+[14:13:01][Debug]: 7dxe released lock Update - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:13:04][Debug]: Removing vessel c8c23397-e777-4452-b5f9-fc11bbb73c4d from 7dxe
+[14:13:04][Debug]: 7dxe released lock UnloadedUpdate - c8c23397-e777-4452-b5f9-fc11bbb73c4d - 7dxe
+[14:13:07][Debug]: Performing backups...
+[14:13:10][Debug]: Sending 7dxe 2 vessels
+[14:13:20][Debug]: Sending 7dxe 2 vessels
+[14:13:30][Debug]: Sending 7dxe 2 vessels
+[14:13:37][Debug]: Performing backups...
+[14:13:40][Debug]: Sending 7dxe 2 vessels
+[14:13:48][Debug]: Micro sent Connection end message, reason: Quit
+[14:13:48][Debug]: Online Players: 1, connected: 1
+[14:13:50][Debug]: Sending 7dxe 2 vessels
+[14:14:00][Debug]: Sending 7dxe 2 vessels
+[14:14:07][Debug]: Performing backups...
+[14:14:10][Debug]: Sending 7dxe 2 vessels
+[14:14:20][Debug]: Sending 7dxe 2 vessels
+[14:14:30][Debug]: Sending 7dxe 2 vessels
+[14:14:37][Debug]: Performing backups...
+[14:14:40][Debug]: Sending 7dxe 2 vessels
+[14:14:50][Debug]: Sending 7dxe 2 vessels
+[14:15:01][Debug]: Sending 7dxe 2 vessels
+[14:15:07][Debug]: Performing backups...
+[14:15:11][Debug]: Sending 7dxe 2 vessels
+[14:15:21][Debug]: Sending 7dxe 2 vessels
+[14:15:31][Debug]: Sending 7dxe 2 vessels
+[14:15:37][Debug]: Performing backups...
+[14:15:41][Debug]: Sending 7dxe 2 vessels
+[14:15:43][Debug]: 7dxe sent Connection end message, reason: Quit
+[14:15:43][Debug]: Online Players: 0, connected: 0
+[14:15:43][Debug]: 7dxe released lock Kerbal - Jebediah Kerman - 7dxe
+[14:15:43][Debug]: 7dxe released lock Control - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 546178ac-fd53-4465-b7fd-cc03a7ad493c - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 74a362dc-2174-46ad-a10b-e7bbe18ea2f7 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 08989ff6-1e6f-4d8d-a712-68454d1e7ade - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 1f64c551-995d-40df-87d8-b840f75e2b9b - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 0bae8710-fc80-4038-a17e-3ee80957fedc - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 8c148b17-1459-4ec2-bc2e-c30d238c0c48 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - c4b4d21c-fc8b-4071-8521-839c6fd0ddf4 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 77bc2052-f6ad-4c1e-8ec3-d39e45221606 - 7dxe
+[14:15:43][Debug]: 7dxe released lock Update - 20b14540-72ff-4003-ba42-cc573e6a63e8 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 546178ac-fd53-4465-b7fd-cc03a7ad493c - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 700e76cf-bd19-49e1-b77b-07f1fe9126e0 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 74a362dc-2174-46ad-a10b-e7bbe18ea2f7 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 08989ff6-1e6f-4d8d-a712-68454d1e7ade - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 1f64c551-995d-40df-87d8-b840f75e2b9b - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 0bae8710-fc80-4038-a17e-3ee80957fedc - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 5ca9a2f1-c401-45dd-a233-93ff89598391 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 8c148b17-1459-4ec2-bc2e-c30d238c0c48 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - c4b4d21c-fc8b-4071-8521-839c6fd0ddf4 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 77bc2052-f6ad-4c1e-8ec3-d39e45221606 - 7dxe
+[14:15:43][Debug]: 7dxe released lock UnloadedUpdate - 20b14540-72ff-4003-ba42-cc573e6a63e8 - 7dxe
+[14:15:43][Debug]: 7dxe released lock AsteroidComet - 7dxe
+[14:15:43][Debug]: Performing backups...
+[14:15:49][LMP]: End of stdin, stopping command listener
+[14:15:49][LMP]: Exiting... Please wait until all threads are finished
+[14:15:49][Debug]: Performing backups...
+[14:15:50][LMP]: So long and thanks for all the fish!

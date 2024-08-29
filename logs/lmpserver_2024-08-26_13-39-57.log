@@ -1,0 +1,133 @@
+[10:39:57][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[10:39:58][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[10:39:58][Debug]: Loading universe... 0,636KB
+[10:39:58][Debug]: Loading groups...
+[10:39:58][Debug]: Loading settings...
+[10:39:59][Debug]: Loading mod control...
+[10:39:59][Debug]: Loading plugins...
+[10:39:59][LMP]: Starting 'ZZZwefly' on Address 0.0.0.0 Port 8800... 
+[10:40:04][LMP]: All systems up and running. Поехали!
+[10:40:04][LMP]: Registering with master servers
+[10:40:04][Debug]: Performing a GarbageCollection
+[10:40:13][LMP]: New client Connection from 26.81.224.97:51831
+[10:40:13][Debug]: Online Players: 0, connected: 1
+[10:40:13][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[10:40:13][Debug]: Online Players: 1, connected: 1
+[10:40:13][Debug]: Sending Micro 12 vessels
+[10:40:13][Debug]: Sending Micro 28 kerbals...
+[10:40:14][Debug]: Sending Micro 1 possible subspaces
+[10:40:29][Debug]: Saving kerbal Valentina Kerman from Micro
+[10:40:32][Debug]: Sending 1 craft folders to: Micro
+[10:40:33][Debug]: Saving kerbal Valentina Kerman from Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:40:34][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:40:34][Debug]: Micro acquired lock AsteroidComet - Micro
+[10:40:34][Debug]: Micro synced with subspace '4' created by Server
+[10:40:34][Debug]: Performing backups...
+[10:40:44][Debug]: Removing vessel f49ece96-2530-4f1f-b20c-c6ef86dfbf72 from Micro
+[10:40:44][Debug]: Saving 10 scenario modules from Micro
+[10:40:44][Debug]: Micro released lock UnloadedUpdate - f49ece96-2530-4f1f-b20c-c6ef86dfbf72 - Micro
+[10:40:48][Debug]: Micro is warping
+[10:40:55][Debug]: Micro created the new subspace '5'
+[10:40:55][Debug]: Removing abandoned subspace '4'
+[10:40:58][Debug]: Removing vessel 64aa636e-b48c-43bb-82fe-0435592495a1 from Micro
+[10:40:58][Debug]: Micro released lock UnloadedUpdate - 64aa636e-b48c-43bb-82fe-0435592495a1 - Micro
+[10:41:04][Debug]: Performing backups...
+[10:41:09][Debug]: Saving kerbal Bilgas Kerman from Micro
+[10:41:09][Debug]: Saving kerbal Jebediah Kerman from Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - b9e736de-2c83-4e4f-861a-6ce28cabb98f - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:41:10][Debug]: Micro released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:41:19][Debug]: Sending Micro 10 vessels
+[10:41:35][Debug]: Performing backups...
+[10:42:05][Debug]: Performing backups...
+[10:42:35][Debug]: Performing backups...
+[10:43:05][Debug]: Performing backups...
+[10:43:31][Debug]: Saving kerbal Jebediah Kerman from Micro
+[10:43:35][Debug]: Performing backups...
+[10:43:41][Debug]: Removing vessel b9e736de-2c83-4e4f-861a-6ce28cabb98f from Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:43:41][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:43:42][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:44:05][Debug]: Performing backups...
+[10:44:27][Debug]: Saving vessel a966ef4b-713c-4619-918f-bc2604869cf9 (2,173 KB) from Micro.
+[10:44:35][Debug]: Performing backups...
+[10:45:05][Debug]: Performing backups...
+[10:45:07][Debug]: Saving vessel 48bc00bb-4f3e-4964-b00b-c695050eeb64 (2,169 KB) from Micro.
+[10:45:35][Debug]: Performing backups...
+[10:46:02][Debug]: Saving vessel 0a51f592-8a38-485c-ad34-6033bf0c9dc4 (2,17 KB) from Micro.
+[10:46:05][Debug]: Performing backups...
+[10:46:21][Debug]: Saving vessel 39850909-6f0e-4014-a83d-eaa4a0b52dda (2,173 KB) from Micro.
+[10:46:35][Debug]: Performing backups...
+[10:47:04][Debug]: Saving kerbal Jebediah Kerman from Micro
+[10:47:05][Debug]: Performing backups...
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 48bc00bb-4f3e-4964-b00b-c695050eeb64 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 0a51f592-8a38-485c-ad34-6033bf0c9dc4 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 39850909-6f0e-4014-a83d-eaa4a0b52dda - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - a2f45822-7679-46e0-aefd-4f7a9cceda2d - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - a966ef4b-713c-4619-918f-bc2604869cf9 - Micro
+[10:47:13][Debug]: Micro acquired lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:47:13][Debug]: Micro released lock UnloadedUpdate - f8fe71a2-96b8-408b-9a2d-215f2a58b5d4 - Micro
+[10:47:13][Debug]: Micro released lock UnloadedUpdate - 7f7753fe-d67b-4daa-a228-e0097102362e - Micro
+[10:47:13][Debug]: Micro released lock UnloadedUpdate - 39850909-6f0e-4014-a83d-eaa4a0b52dda - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 6f4671eb-a9ab-465b-b864-f2cecafca869 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 0a51f592-8a38-485c-ad34-6033bf0c9dc4 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - a2f45822-7679-46e0-aefd-4f7a9cceda2d - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 88ae6b03-912f-4015-9882-6720d552da15 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - a966ef4b-713c-4619-918f-bc2604869cf9 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 48bc00bb-4f3e-4964-b00b-c695050eeb64 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 352785ad-ceef-4289-93a8-8070c0a85b45 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 65aa25d8-d99c-4df3-b8d5-b7357c5a8337 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - 35077aac-3e0f-47ec-a626-8be7c215b4d0 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - c4ba735c-741d-42bc-aa82-1db15bb9b402 - Micro
+[10:47:14][Debug]: Micro released lock UnloadedUpdate - c85b8e6e-a16e-4fe2-b527-6bca418f2f1e - Micro
+[10:47:15][Debug]: Saving vessel a2f45822-7679-46e0-aefd-4f7a9cceda2d (2,168 KB) from Micro.
+[10:47:35][Debug]: Performing backups...
+[10:47:52][Debug]: Micro sent Connection end message, reason: Quit
+[10:47:52][Debug]: Online Players: 0, connected: 0
+[10:47:52][Debug]: Micro released lock AsteroidComet - Micro
+[10:47:52][Debug]: Performing backups...
+[10:47:58][LMP]: End of stdin, stopping command listener
+[10:47:58][LMP]: Exiting... Please wait until all threads are finished
+[10:47:58][Debug]: Performing backups...
+[10:47:58][LMP]: So long and thanks for all the fish!

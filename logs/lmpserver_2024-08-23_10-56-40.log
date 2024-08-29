@@ -1,0 +1,32 @@
+[07:56:40][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[07:56:41][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[07:56:41][Debug]: Loading universe... 0KB
+[07:56:41][LMP]: Creating file Jebediah Kerman.txt
+[07:56:41][LMP]: Creating file Bill Kerman.txt
+[07:56:41][LMP]: Creating file Bob Kerman.txt
+[07:56:41][LMP]: Creating file Valentina Kerman.txt
+[07:56:41][Debug]: Loading groups...
+[07:56:41][Debug]: Loading settings...
+[07:56:41][Debug]: Loading mod control...
+[07:56:41][LMP]: Creating file ROCScenario.txt
+[07:56:41][LMP]: Creating file DeployedScience.txt
+[07:56:41][LMP]: Creating file CommNetScenario.txt
+[07:56:41][LMP]: Creating file PartUpgradeManager.txt
+[07:56:41][LMP]: Creating file ProgressTracking.txt
+[07:56:41][LMP]: Creating file ResourceScenario.txt
+[07:56:41][LMP]: Creating file ScenarioAchievements.txt
+[07:56:41][LMP]: Creating file ScenarioDestructibles.txt
+[07:56:41][LMP]: Creating file SentinelScenario.txt
+[07:56:41][LMP]: Creating file VesselRecovery.txt
+[07:56:41][LMP]: Creating file ScenarioNewGameIntro.txt
+[07:56:41][Debug]: Loading plugins...
+[07:56:41][Debug]: Creating new subspace file
+[07:56:41][Debug]: Creating new start time file
+[07:56:41][LMP]: Starting 'Luna Server' on Address 0.0.0.0 Port 8800... 
+[07:56:46][LMP]: All systems up and running. Поехали!
+[07:56:46][Debug]: Performing a GarbageCollection
+[07:56:46][LMP]: Registering with master servers
+[07:57:10][LMP]: End of stdin, stopping command listener
+[07:57:10][LMP]: Exiting... Please wait until all threads are finished
+[07:57:10][Debug]: Performing backups...
+[07:57:10][LMP]: So long and thanks for all the fish!
