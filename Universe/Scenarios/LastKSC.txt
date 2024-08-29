@@ -1,0 +1,3 @@
+name = LastKSC
+scene = 8
+LastLaunchSite = us_cape_canaveral

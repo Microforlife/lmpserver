@@ -1,0 +1,229 @@
+name = Scenario
+scene = 7, 8, 5
+CactEyeOptics
+{
+	OccultationRecord
+	{
+		time = 653943
+		type = Planet
+		occType = 2
+		referencebody = Kerbin
+		body = Jool
+	}
+	OccultationRecord
+	{
+		time = 245241
+		type = Planet
+		occType = 2
+		referencebody = Duna
+		body = Moho
+	}
+	OccultationRecord
+	{
+		time = 450484
+		type = Moon
+		occType = 3
+		referencebody = Jool
+		body = Laythe
+	}
+	OccultationRecord
+	{
+		time = 418457
+		type = Planet
+		occType = 2
+		referencebody = Eve
+		body = Kerbin
+	}
+	OccultationRecord
+	{
+		time = 127158
+		type = Planet
+		occType = 2
+		referencebody = Sarnus
+		body = Eeloo
+	}
+	OccultationRecord
+	{
+		time = 376957
+		type = Moon
+		occType = 3
+		referencebody = Urlum
+		body = Polta
+	}
+	OccultationRecord
+	{
+		time = 519136
+		type = Planet
+		occType = 2
+		referencebody = Wal
+		body = Olimio
+	}
+	OccultationRecord
+	{
+		time = 249929
+		type = Moon
+		occType = 3
+		referencebody = Neidon
+		body = Thatmo
+	}
+	OccultationRecord
+	{
+		time = 196933
+		type = Planet
+		occType = 2
+		referencebody = Plock
+		body = Karen
+	}
+	OccultationRecord
+	{
+		time = 567785
+		type = Moon
+		occType = 3
+		referencebody = Kcalbeloh
+		body = Mehtna
+	}
+	OccultationRecord
+	{
+		time = 688999
+		type = Moon
+		occType = 3
+		referencebody = Maelg
+		body = Mehtna
+	}
+	OccultationRecord
+	{
+		time = 537529
+		type = Moon
+		occType = 3
+		referencebody = Sunorc
+		body = SimeSystem
+	}
+	OccultationRecord
+	{
+		time = 484776
+		type = Planet
+		occType = 2
+		referencebody = Suluco
+		body = Kerbin
+	}
+	OccultationRecord
+	{
+		time = 534648
+		type = Moon
+		occType = 3
+		referencebody = Sera
+		body = Dipuc
+	}
+	OccultationRecord
+	{
+		time = 262707
+		type = Moon
+		occType = 3
+		referencebody = SimeSystem
+		body = Norihc
+	}
+	OccultationRecord
+	{
+		time = 677005
+		type = Moon
+		occType = 3
+		referencebody = AralcA
+		body = Arorua
+	}
+	OccultationRecord
+	{
+		time = 662072
+		type = Planet
+		occType = 2
+		referencebody = AralcB
+		body = Neidon
+	}
+	OccultationRecord
+	{
+		time = 211628
+		type = Moon
+		occType = 3
+		referencebody = Anehta
+		body = Eulb
+	}
+	OccultationRecord
+	{
+		time = 563398
+		type = Planet
+		occType = 2
+		referencebody = Olimio
+		body = Kernar
+	}
+	OccultationRecord
+	{
+		time = 673495
+		type = Planet
+		occType = 2
+		referencebody = Kernar
+		body = Neidon
+	}
+	OccultationRecord
+	{
+		time = 654168
+		type = Moon
+		occType = 3
+		referencebody = Qun
+		body = Olip
+	}
+	OccultationRecord
+	{
+		time = 549016
+		type = Moon
+		occType = 3
+		referencebody = AuarA
+		body = Lavum
+	}
+	OccultationRecord
+	{
+		time = 408626
+		type = Moon
+		occType = 3
+		referencebody = Gopiua
+		body = Iuol
+	}
+	OccultationRecord
+	{
+		time = 574363
+		type = Moon
+		occType = 3
+		referencebody = Jimol
+		body = Kip
+	}
+	OccultationRecord
+	{
+		time = 601784
+		type = Planet
+		occType = 2
+		referencebody = Kip
+		body = Urlum
+	}
+	OccultationRecord
+	{
+		time = 427241
+		type = Planet
+		occType = 2
+		referencebody = Anio
+		body = Oniorimo
+	}
+	OccultationRecord
+	{
+		time = 555649
+		type = Planet
+		occType = 2
+		referencebody = Lantei
+		body = Duna
+	}
+	OccultationRecord
+	{
+		time = 445283
+		type = Moon
+		occType = 3
+		referencebody = Opelu
+		body = Asuli
+	}
+}

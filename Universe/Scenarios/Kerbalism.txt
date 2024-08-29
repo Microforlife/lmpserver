@@ -1,0 +1,1755 @@
+name = Kerbalism
+scene = 5, 8, 7, 6
+version = 3.19
+uid = 1197899894
+uncreditedScience = 0
+kerbals
+{
+	Kavan___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Fergas___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Kenmy___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Malbrett___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Kalin___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Gigun___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Miing___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Jebediah___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Bilgas___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Lagerford___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Mobrett___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Macemone___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Derberry___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Eilry___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Haytop___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Billy-Boblie___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Hairim___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Shepbin___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Fredmon___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Zelnand___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Catald___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Haydred___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+	Desvan___Kerman
+	{
+		rescue = True
+		disabled = False
+		eva_dead = False
+		rules
+		{
+		}
+	}
+}
+vessels2
+{
+	457e9976-6611-4ed5-9886-f14336914abd
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	9dda96ca-51a3-45b6-9eb4-c90eaddc45d8
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	7416332e-1bae-4223-965a-248b05781c4e
+	{
+		msg_signal = True
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+			ElectricCharge
+			{
+				message = 2
+			}
+			Food
+			{
+				message = 0
+			}
+			Water
+			{
+				message = 0
+			}
+			Oxygen
+			{
+				message = 0
+			}
+			Nitrogen
+			{
+				message = 0
+			}
+			LithiumHydroxide
+			{
+				message = 0
+			}
+			PotassiumSuperoxide
+			{
+				message = 0
+			}
+			LqdHydrogen
+			{
+				message = 0
+			}
+			LqdMethane
+			{
+				message = 0
+			}
+			LqdOxygen
+			{
+				message = 0
+			}
+			Hydrogen
+			{
+				message = 0
+			}
+			Uraninite
+			{
+				message = 0
+			}
+			EnrichedUranium
+			{
+				message = 0
+			}
+			UraniumNitride
+			{
+				message = 0
+			}
+			Atmosphere
+			{
+				message = 0
+			}
+			Shielding
+			{
+				message = 0
+			}
+			WasteAtmosphere
+			{
+				message = 0
+			}
+			_EVAScrubber
+			{
+				message = 0
+			}
+			_NonRegenScrubber
+			{
+				message = 0
+			}
+			_WaterSublimator
+			{
+				message = 0
+			}
+			_Scrubber
+			{
+				message = 0
+			}
+			_VacScrubber
+			{
+				message = 0
+			}
+			_AdvScrubber
+			{
+				message = 0
+			}
+			_KO2Scrubber
+			{
+				message = 0
+			}
+			_PressureControl
+			{
+				message = 0
+			}
+			_PressureControlOxygen
+			{
+				message = 0
+			}
+			_AirPump
+			{
+				message = 0
+			}
+			_WaterRecycler
+			{
+				message = 0
+			}
+			_WasteIncinerator
+			{
+				message = 0
+			}
+			_FuelCellGemini
+			{
+				message = 0
+			}
+			_FuelCell
+			{
+				message = 0
+			}
+			_FuelCellGas
+			{
+				message = 0
+			}
+			_FuelCellVolna20
+			{
+				message = 0
+			}
+			_FuelCellShuttle
+			{
+				message = 0
+			}
+			_FuelCellCH4
+			{
+				message = 0
+			}
+			_WaterElectrolysis
+			{
+				message = 0
+			}
+			_Sabatier
+			{
+				message = 0
+			}
+			_CH4Pyrolosis
+			{
+				message = 0
+			}
+			_algae
+			{
+				message = 0
+			}
+			_MRP
+			{
+				message = 0
+			}
+			_MOXIE
+			{
+				message = 0
+			}
+			_RWGS
+			{
+				message = 0
+			}
+			_HTPSynthesis
+			{
+				message = 0
+			}
+			_HaberBosch
+			{
+				message = 0
+			}
+			_OstwaldProcess
+			{
+				message = 0
+			}
+			_HydrazineSynthesis
+			{
+				message = 0
+			}
+			_BraytonGenerator
+			{
+				message = 0
+			}
+			_BraytonGeneratorUN
+			{
+				message = 0
+			}
+			_TurbineGenerator
+			{
+				message = 0
+			}
+			_LOXConverter
+			{
+				message = 0
+			}
+			_OXConverter
+			{
+				message = 0
+			}
+			_LH2Converter
+			{
+				message = 0
+			}
+			_H2Converter
+			{
+				message = 0
+			}
+			_LCH4Converter
+			{
+				message = 0
+			}
+			_CH4Converter
+			{
+				message = 0
+			}
+			_RP1Vaporizer
+			{
+				message = 0
+			}
+			_RG1Vaporizer
+			{
+				message = 0
+			}
+			_SyntinVaporizer
+			{
+				message = 0
+			}
+			_EthanolVaporizer
+			{
+				message = 0
+			}
+			_MethaneVaporizer
+			{
+				message = 0
+			}
+			_HydrogenVaporizer
+			{
+				message = 0
+			}
+			_ClampPump
+			{
+				message = 0
+			}
+			_RegolithCompacter
+			{
+				message = 0
+			}
+			_RTG
+			{
+				message = 0
+			}
+			_RTGPo210
+			{
+				message = 0
+			}
+			_RTGCm242
+			{
+				message = 0
+			}
+			_SickbayColony
+			{
+				message = 0
+			}
+			_SickbayOrbital
+			{
+				message = 0
+			}
+			_Centrifuge
+			{
+				message = 0
+			}
+			_Breeder
+			{
+				message = 0
+			}
+			_Nukereactor
+			{
+				message = 0
+			}
+			_RAPIDLreactor
+			{
+				message = 0
+			}
+			_SNAP50reactor
+			{
+				message = 0
+			}
+			_TOPAZIIreactor
+			{
+				message = 0
+			}
+			_TOPAZIreactor
+			{
+				message = 0
+			}
+			_BES5reactor
+			{
+				message = 0
+			}
+			_Kilopowerreactor
+			{
+				message = 0
+			}
+			_SAFE400reactor
+			{
+				message = 0
+			}
+			_SNAP10reactor
+			{
+				message = 0
+			}
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	9a5fc9f5-8ed7-4b49-a0a3-f35cf4526384
+	{
+		msg_signal = True
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+			ElectricCharge
+			{
+				message = 0
+			}
+			Food
+			{
+				message = 0
+			}
+			Water
+			{
+				message = 0
+			}
+			Oxygen
+			{
+				message = 0
+			}
+			Nitrogen
+			{
+				message = 0
+			}
+			LithiumHydroxide
+			{
+				message = 0
+			}
+			PotassiumSuperoxide
+			{
+				message = 0
+			}
+			LqdHydrogen
+			{
+				message = 0
+			}
+			LqdMethane
+			{
+				message = 0
+			}
+			LqdOxygen
+			{
+				message = 0
+			}
+			Hydrogen
+			{
+				message = 0
+			}
+			Uraninite
+			{
+				message = 0
+			}
+			EnrichedUranium
+			{
+				message = 0
+			}
+			UraniumNitride
+			{
+				message = 0
+			}
+			Atmosphere
+			{
+				message = 0
+			}
+			Shielding
+			{
+				message = 0
+			}
+			WasteAtmosphere
+			{
+				message = 0
+			}
+			_EVAScrubber
+			{
+				message = 0
+			}
+			_NonRegenScrubber
+			{
+				message = 0
+			}
+			_WaterSublimator
+			{
+				message = 0
+			}
+			_Scrubber
+			{
+				message = 0
+			}
+			_VacScrubber
+			{
+				message = 0
+			}
+			_AdvScrubber
+			{
+				message = 0
+			}
+			_KO2Scrubber
+			{
+				message = 0
+			}
+			_PressureControl
+			{
+				message = 0
+			}
+			_PressureControlOxygen
+			{
+				message = 0
+			}
+			_AirPump
+			{
+				message = 0
+			}
+			_WaterRecycler
+			{
+				message = 0
+			}
+			_WasteIncinerator
+			{
+				message = 0
+			}
+			_FuelCellGemini
+			{
+				message = 0
+			}
+			_FuelCell
+			{
+				message = 0
+			}
+			_FuelCellGas
+			{
+				message = 0
+			}
+			_FuelCellVolna20
+			{
+				message = 0
+			}
+			_FuelCellShuttle
+			{
+				message = 0
+			}
+			_FuelCellCH4
+			{
+				message = 0
+			}
+			_WaterElectrolysis
+			{
+				message = 0
+			}
+			_Sabatier
+			{
+				message = 0
+			}
+			_CH4Pyrolosis
+			{
+				message = 0
+			}
+			_algae
+			{
+				message = 0
+			}
+			_MRP
+			{
+				message = 0
+			}
+			_MOXIE
+			{
+				message = 0
+			}
+			_RWGS
+			{
+				message = 0
+			}
+			_HTPSynthesis
+			{
+				message = 0
+			}
+			_HaberBosch
+			{
+				message = 0
+			}
+			_OstwaldProcess
+			{
+				message = 0
+			}
+			_HydrazineSynthesis
+			{
+				message = 0
+			}
+			_BraytonGenerator
+			{
+				message = 0
+			}
+			_BraytonGeneratorUN
+			{
+				message = 0
+			}
+			_TurbineGenerator
+			{
+				message = 0
+			}
+			_LOXConverter
+			{
+				message = 0
+			}
+			_OXConverter
+			{
+				message = 0
+			}
+			_LH2Converter
+			{
+				message = 0
+			}
+			_H2Converter
+			{
+				message = 0
+			}
+			_LCH4Converter
+			{
+				message = 0
+			}
+			_CH4Converter
+			{
+				message = 0
+			}
+			_RP1Vaporizer
+			{
+				message = 0
+			}
+			_RG1Vaporizer
+			{
+				message = 0
+			}
+			_SyntinVaporizer
+			{
+				message = 0
+			}
+			_EthanolVaporizer
+			{
+				message = 0
+			}
+			_MethaneVaporizer
+			{
+				message = 0
+			}
+			_HydrogenVaporizer
+			{
+				message = 0
+			}
+			_ClampPump
+			{
+				message = 0
+			}
+			_RegolithCompacter
+			{
+				message = 0
+			}
+			_RTG
+			{
+				message = 0
+			}
+			_RTGPo210
+			{
+				message = 0
+			}
+			_RTGCm242
+			{
+				message = 0
+			}
+			_SickbayColony
+			{
+				message = 0
+			}
+			_SickbayOrbital
+			{
+				message = 0
+			}
+			_Centrifuge
+			{
+				message = 0
+			}
+			_Breeder
+			{
+				message = 0
+			}
+			_Nukereactor
+			{
+				message = 0
+			}
+			_RAPIDLreactor
+			{
+				message = 0
+			}
+			_SNAP50reactor
+			{
+				message = 0
+			}
+			_TOPAZIIreactor
+			{
+				message = 0
+			}
+			_TOPAZIreactor
+			{
+				message = 0
+			}
+			_BES5reactor
+			{
+				message = 0
+			}
+			_Kilopowerreactor
+			{
+				message = 0
+			}
+			_SAFE400reactor
+			{
+				message = 0
+			}
+			_SNAP10reactor
+			{
+				message = 0
+			}
+			MonoPropellant
+			{
+				message = 0
+			}
+			LiquidFuel
+			{
+				message = 0
+			}
+			Oxidizer
+			{
+				message = 0
+			}
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	18e97846-53e9-419a-bfab-b93633536dd6
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	0856735a-b971-4ee0-9b0d-3d33e553eba5
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	a3d780c6-f644-4725-8f36-6d86a4dae324
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	26c3517f-b202-4c34-8f2e-1a319a94703e
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	22dd0ae6-84e1-4ad1-ab63-72bbd21fd91d
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	09ae611c-ff83-4baa-a5c9-e79bf56de7e9
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	0cce26b0-c660-4876-a2cc-fe698edad94f
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	2c27be14-6db5-45db-a7a3-b5c85df54546
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	1ed1ced2-2915-4772-a2c8-a014a9f3d8a3
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	91013618-b51e-4a71-bae5-506d66d4ca67
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	2ebb701c-e262-4b62-8170-3af018fe0387
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	3e33e534-3446-4a99-9c67-b3a21aebb13d
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+	8a514f65-4bef-4e42-9031-89d629488b9c
+	{
+		msg_signal = False
+		msg_belt = False
+		cfg_ec = True
+		cfg_supply = True
+		cfg_signal = False
+		cfg_malfunction = True
+		cfg_storm = False
+		cfg_script = False
+		cfg_highlights = True
+		cfg_showlink = True
+		cfg_show = True
+		isGroundCtrl = False
+		deviceTransmit = True
+		solarPanelsAverageExposure = -1
+		scienceTransmitted = 0
+		StormData
+		{
+			storm_time = 0
+			storm_duration = 0
+			storm_generation = 0
+			storm_state = 0
+			msg_storm = 0
+			displayed_duration = 0
+			display_warning = True
+		}
+		computer
+		{
+			scripts
+			{
+			}
+		}
+		supplies
+		{
+		}
+		dump_specs
+		{
+		}
+		SunShielding
+		{
+			maxPressure = 0
+			sspi
+			{
+			}
+		}
+		parts
+		{
+		}
+	}
+}
+sandboxScienceSubjects
+{
+}
+subjectData
+{
+}
+bodies
+{
+	Saturn
+	{
+		storm_time = 0
+		storm_duration = 0
+		storm_generation = 0
+		storm_state = 0
+		msg_storm = 0
+		displayed_duration = 0
+		display_warning = True
+	}
+	Earth
+	{
+		storm_time = 0
+		storm_duration = 0
+		storm_generation = 0
+		storm_state = 0
+		msg_storm = 0
+		displayed_duration = 0
+		display_warning = True
+	}
+}
+landmarks
+{
+	belt_crossing = False
+	manned_orbit = False
+	space_harvest = False
+	space_analysis = False
+	heliopause_crossing = False
+}
+ui
+{
+	win_left = 280
+	win_top = 100
+	map_viewed = False
+}

@@ -1,0 +1,89 @@
+name = RACommNetScenario
+scene = 7, 8, 5, 6
+MapUISettings
+{
+	coneOpacity = 1
+	coneCircles = 4
+	drawConesMode = Cone3D
+	radioPerspective = Transmit
+	drawTarget = False
+	drawCone3 = True
+	drawCone10 = True
+	lineScaleWidth = 2.5
+}
+FilterSettings
+{
+	Debris = True
+	Probe = True
+	Rover = True
+	Lander = True
+	Ship = True
+	Station = True
+	Base = True
+	Plane = True
+	Relay = True
+	EVA = True
+	Flag = True
+	SpaceObject = True
+	Unknown = True
+	DeployedScienceController = True
+}
+HomeState
+{
+	AU - Woomera = True
+	CA - Churchill = True
+	CN - Jiuquan = True
+	CN - Taiyuan = True
+	CN - Wenchang = True
+	CN - Xichang = True
+	DZ - Hammaguir = True
+	FR - Kourou = True
+	IL - Palmachim = True
+	IN - Satish Dhawan = True
+	IR - Semnan = True
+	JP - Tanegashima = True
+	JP - Uchinoura = True
+	KP - Sohae = True
+	KR - Naro = True
+	KZ - Baikonur = True
+	MH - Omelek = True
+	NZ - Mahia = True
+	RU - Kapustin Yar = True
+	RU - Plesetsk = True
+	RU - Svobodny = True
+	RU - Yasny = True
+	SE - Esrange = True
+	US - Brownsville = True
+	US - Cape Canaveral = True
+	US - Kodiak = True
+	US - Vandenberg = True
+	US - Wallops = True
+	US - White Sands = True
+	STDN - Quito = True
+	STDN - Ascension = True
+	STDN - Johannesburg = True
+	STDN - Tananarive = True
+	STDN - Carnarvon = True
+	MSFN - Kauai = True
+	MSFN - Guaymas = True
+	MSFN - Grand Canary = True
+	MSFN - Kano = True
+	MSFN - BDA Bermuda = True
+	MGS - McMurdo = True
+	NIP 4 - Yeniseisk = True
+	NIP 6 - Vulkanny = True
+	KSAT - Troll Station = True
+	KSAT - Svalbard = True
+	DSA 3 - Malargüe = True
+	DSS 14 - Goldstone = True
+	DSS 43 - Canberra = True
+	DSS 63 - Madrid = True
+	NIP 16 - Evpatoria = True
+	NIP 15 - Ussuriysk = True
+	NIP 14 - Shchelkovo = True
+	ASF - Alaska Satellite Facility = True
+	KSAT - Singapore = True
+	SSC - Santiago = True
+	SSC - Dongara = True
+	SSC - South Point = True
+}

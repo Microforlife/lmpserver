@@ -1,0 +1,49 @@
+name = TRScenario
+scene = 5
+personaliseSuit = False
+hideBackpack = False
+reflectionType = Real
+Kerbals
+{
+	Jebediah Kerman = GENERIC TR/Orange
+	Bill Kerman = GENERIC TR/Orange
+	Bob Kerman = GENERIC TR/Orange
+	Valentina Kerman = GENERIC TR/Orange
+	Mito Kerman = GENERIC GENERIC
+	Fergas Kerman = GENERIC GENERIC
+	Malbrett Kerman = GENERIC GENERIC
+	Kavan Kerman = GENERIC GENERIC
+	Irpont Kerman = GENERIC GENERIC
+	Sigun Kerman = GENERIC GENERIC
+	Bilgas Kerman = GENERIC GENERIC
+	Harster Kerman = GENERIC GENERIC
+	Asrey Kerman = GENERIC GENERIC
+	Kenmy Kerman = GENERIC GENERIC
+	Gigun Kerman = GENERIC GENERIC
+	Valul Kerman = GENERIC GENERIC
+	Dangard Kerman = GENERIC GENERIC
+	Lagerford Kerman = GENERIC GENERIC
+	Mobrett Kerman = GENERIC GENERIC
+	Miing Kerman = GENERIC GENERIC
+	Tamara Kerman = GENERIC GENERIC
+	Macemone Kerman = GENERIC GENERIC
+	Kelger Kerman = GENERIC GENERIC
+	Derberry Kerman = GENERIC GENERIC
+	Kalin Kerman = GENERIC GENERIC
+	Eilry Kerman = GENERIC GENERIC
+	Haytop Kerman = GENERIC GENERIC
+	Billy-Boblie Kerman = GENERIC GENERIC
+	Anble Kerman = GENERIC GENERIC
+	Gledas Kerman = GENERIC GENERIC
+	Hairim Kerman = GENERIC GENERIC
+	Shepbin Kerman = GENERIC GENERIC
+	Fredmon Kerman = GENERIC GENERIC
+	Zelnand Kerman = GENERIC GENERIC
+	Catald Kerman = GENERIC GENERIC
+	Malfry Kerman = GENERIC GENERIC
+	Haydred Kerman = GENERIC GENERIC
+	Desvan Kerman = GENERIC GENERIC
+}
+ClassSuits
+{
+}
