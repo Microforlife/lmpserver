@@ -1,0 +1,52 @@
+[14:49:04][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[14:49:04][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[14:49:04][Debug]: Loading universe... 0,638KB
+[14:49:04][Debug]: Loading groups...
+[14:49:04][Debug]: Loading settings...
+[14:49:05][Debug]: Loading mod control...
+[14:49:05][Debug]: Loading plugins...
+[14:49:05][LMP]: Starting 'ZZZwefly' on Address 0.0.0.0 Port 8800... 
+[14:49:10][LMP]: All systems up and running. Поехали!
+[14:49:10][LMP]: Registering with master servers
+[14:49:10][Debug]: Performing a GarbageCollection
+[14:49:20][LMP]: New client Connection from 26.81.224.97:61584
+[14:49:20][Debug]: Online Players: 0, connected: 1
+[14:49:20][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[14:49:20][Debug]: Online Players: 1, connected: 1
+[14:49:20][Debug]: Sending Micro 7 vessels
+[14:49:20][Debug]: Sending Micro 40 kerbals...
+[14:49:20][Debug]: Sending Micro 1 possible subspaces
+[14:49:26][Debug]: Saving kerbal Mito Kerman from Micro
+[14:49:27][Debug]: Saving kerbal Mito Kerman from Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[14:49:27][Debug]: Micro acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[14:49:27][Debug]: Micro acquired lock AsteroidComet - Micro
+[14:49:27][Debug]: Micro synced with subspace '263' created by Server
+[14:49:40][Debug]: Performing backups...
+[14:49:50][Debug]: Saving 10 scenario modules from Micro
+[14:50:10][Debug]: Performing backups...
+[14:50:40][Debug]: Performing backups...
+[14:51:10][Debug]: Performing backups...
+[14:51:40][Debug]: Performing backups...
+[14:52:10][Debug]: Performing backups...
+[14:52:40][Debug]: Performing backups...
+[14:52:46][Debug]: Micro sent Connection end message, reason: Quit
+[14:52:46][Debug]: Online Players: 0, connected: 0
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[14:52:46][Debug]: Micro released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[14:52:46][Debug]: Micro released lock AsteroidComet - Micro
+[14:52:46][Debug]: Performing backups...
+[14:52:49][LMP]: End of stdin, stopping command listener
+[14:52:49][LMP]: Exiting... Please wait until all threads are finished
+[14:52:49][Debug]: Performing backups...
+[14:52:50][LMP]: So long and thanks for all the fish!

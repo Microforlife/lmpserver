@@ -1,0 +1,82 @@
+[12:17:28][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[12:17:28][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[12:17:28][Debug]: Loading universe... 0,638KB
+[12:17:28][Debug]: Loading groups...
+[12:17:28][Debug]: Loading settings...
+[12:17:29][Debug]: Loading mod control...
+[12:17:29][Debug]: Loading plugins...
+[12:17:29][LMP]: Starting 'ZZZwefly' on Address 0.0.0.0 Port 8800... 
+[12:17:34][LMP]: All systems up and running. Поехали!
+[12:17:34][Debug]: Performing a GarbageCollection
+[12:17:34][LMP]: Registering with master servers
+[12:23:58][LMP]: Command input: /help
+[12:23:58][LMP]: listlocks       - Lists current locks
+[12:23:58][LMP]: listclients     - Lists connected clients
+[12:23:58][LMP]: dekessler       - Clears out debris from the server
+[12:23:58][LMP]: connectionstats - Displays network traffic usage
+[12:23:58][LMP]: ban             - Bans someone from the server
+[12:23:58][LMP]: say             - Broadcasts a message to clients
+[12:23:58][LMP]: restartserver   - Restarts the server
+[12:23:58][LMP]: clearvessels    - Clears ALL SPECIFIED vessels from universe
+[12:23:58][LMP]: kick            - Kicks a player from the server
+[12:23:58][LMP]: nukeksc         - Clears ALL vessels from KSC and the runway
+[12:23:58][LMP]: help            - Displays this help
+[12:23:58][LMP]: countclients    - Counts connected clients
+[12:23:58][LMP]: setscience      - Set science value
+[12:23:58][LMP]: setfunds        - Set funds value
+[12:23:58][LMP]: changesettings  - Changes the server settings
+[12:24:08][LMP]: Command input: /changesettings
+[12:24:08][Error]: Syntax error. No parameters found. Usage: /changesettings settingsFile settingName newValueDescription: Parameter settingsFile can be settings, gameplaysettings or debugsettings
+Parameter settingName corresponds to the names inside the settings xml files.
+Parameter settingName is case sensitive.
+Parameter newValue is the new value.
+Use '-' to set the new value as empty.
+ Examples: This will change server password to empty ...
+/changesettings settings Password -
+This will change MaxPlayers to 8 ...
+/changesettings settings MaxPlayers 8
+[12:26:00][LMP]: New client Connection from 26.81.224.97:57470
+[12:26:00][Debug]: Online Players: 0, connected: 1
+[12:26:00][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[12:26:01][Debug]: Online Players: 1, connected: 1
+[12:26:01][Debug]: Sending Micro 7 vessels
+[12:26:01][Debug]: Sending Micro 41 kerbals...
+[12:26:01][Debug]: Sending Micro 1 possible subspaces
+[12:26:04][Debug]: Performing backups...
+[12:26:09][Debug]: Saving kerbal Mito Kerman from Micro
+[12:26:10][Debug]: Saving kerbal Mito Kerman from Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[12:26:10][Debug]: Micro acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[12:26:10][Debug]: Micro acquired lock AsteroidComet - Micro
+[12:26:10][Debug]: Micro synced with subspace '265' created by Server
+[12:26:31][Debug]: Saving 10 scenario modules from Micro
+[12:26:34][Debug]: Performing backups...
+[12:27:04][Debug]: Performing backups...
+[12:27:10][Debug]: Micro sent Connection end message, reason: Quit
+[12:27:10][Debug]: Online Players: 0, connected: 0
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[12:27:10][Debug]: Micro released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[12:27:10][Debug]: Micro released lock AsteroidComet - Micro
+[12:27:10][Debug]: Performing backups...
+[12:32:34][Debug]: Performing a GarbageCollection
+[12:47:34][Debug]: Performing a GarbageCollection
+[13:02:34][Debug]: Performing a GarbageCollection
+[13:17:34][Debug]: Performing a GarbageCollection
+[13:32:34][Debug]: Performing a GarbageCollection
+[13:47:34][Debug]: Performing a GarbageCollection
+[14:02:34][Debug]: Performing a GarbageCollection
+[14:17:34][Debug]: Performing a GarbageCollection
+[14:20:38][LMP]: End of stdin, stopping command listener
+[14:20:38][LMP]: Exiting... Please wait until all threads are finished
+[14:20:38][Debug]: Performing backups...
+[14:20:39][LMP]: So long and thanks for all the fish!

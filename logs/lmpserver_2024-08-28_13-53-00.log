@@ -1,0 +1,551 @@
+[10:53:00][Info]: Remember! Quit the server by using 'Control + C' so a backup is properly made before closing!
+[10:53:01][LMP]: Luna Server version: 0.29.0 (C:\Servertest\LMPServer 1\LMPServer\)
+[10:53:01][Debug]: Loading universe... 0,638KB
+[10:53:01][Debug]: Loading groups...
+[10:53:01][Debug]: Loading settings...
+[10:53:01][Debug]: Loading mod control...
+[10:53:02][Debug]: Loading plugins...
+[10:53:02][LMP]: Starting 'ZZZwefly' on Address 0.0.0.0 Port 8800... 
+[10:53:07][LMP]: All systems up and running. Поехали!
+[10:53:07][LMP]: Registering with master servers
+[10:53:07][Debug]: Performing a GarbageCollection
+[10:58:58][LMP]: New client Connection from 84.255.185.16:23720
+[10:58:58][Debug]: Online Players: 0, connected: 1
+[10:58:58][LMP]: Client 7dxe (359865CA-ED9C-5CEF-8044-DBA515F1C864) handshake successfully, Version: 0.29.0
+[10:58:58][Debug]: Online Players: 1, connected: 1
+[10:58:59][Debug]: Sending 7dxe 9 vessels
+[10:58:59][Debug]: Sending 7dxe 41 kerbals...
+[10:58:59][Debug]: Sending 7dxe 1 possible subspaces
+[10:59:01][Debug]: Saving kerbal Elisted Kerman from 7dxe
+[10:59:07][Debug]: Saving kerbal Elisted Kerman from 7dxe
+[10:59:07][Debug]: Saving kerbal Mito Kerman from 7dxe
+[10:59:07][Debug]: Performing backups...
+[10:59:07][Debug]: Saving kerbal Mito Kerman from 7dxe
+[10:59:07][Debug]: Saving kerbal Jebediah Kerman from 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[10:59:08][Debug]: 7dxe acquired lock AsteroidComet - 7dxe
+[10:59:08][Debug]: 7dxe synced with subspace '263' created by Server
+[10:59:30][Debug]: Saving 9 scenario modules from 7dxe
+[10:59:37][Debug]: Performing backups...
+[10:59:37][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[10:59:38][Debug]: 7dxe released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[10:59:39][Debug]: Sending 7dxe 9 vessels
+[11:00:07][Debug]: Performing backups...
+[11:00:14][Debug]: 7dxe acquired lock Control - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:14][Debug]: 7dxe acquired lock Update - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:14][Debug]: 7dxe acquired lock UnloadedUpdate - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:00:15][Debug]: 7dxe acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:00:17][Debug]: Saving vessel c4b87dc4-e827-43c9-9091-08727749ba39 (276,05 KB) from 7dxe.
+[11:00:23][Debug]: 7dxe is warping
+[11:00:24][Debug]: 7dxe created the new subspace '264'
+[11:00:25][Debug]: Removing abandoned subspace '263'
+[11:00:25][Debug]: 7dxe acquired lock UnloadedUpdate - 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe - 7dxe
+[11:00:25][Debug]: 7dxe acquired lock Update - 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe - 7dxe
+[11:00:25][Debug]: 7dxe acquired lock UnloadedUpdate - 00d196a9-94b6-4da0-94d8-09e90b4ea1ba - 7dxe
+[11:00:25][Debug]: 7dxe acquired lock Update - 00d196a9-94b6-4da0-94d8-09e90b4ea1ba - 7dxe
+[11:00:25][Debug]: Saving vessel 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe (3,997 KB) from 7dxe.
+[11:00:25][Debug]: Saving vessel 00d196a9-94b6-4da0-94d8-09e90b4ea1ba (3,996 KB) from 7dxe.
+[11:00:29][Error]: Error deserializing message! System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at LmpCommon.Message.Data.Vessel.VesselPartSyncFieldMsgData.InternalDeserialize(NetIncomingMessage lidgrenMsg) in C:\projects\lunamultiplayer\LmpCommon\Message\Data\Vessel\VesselPartSyncFieldMsgData.cs:line 102
+   at LmpCommon.Message.Base.FactoryBase.Deserialize(NetIncomingMessage lidgrenMsg, Int64 receiveTime) in C:\projects\lunamultiplayer\LmpCommon\Message\Base\FactoryBase.cs:line 75
+   at Server.Server.MessageReceiver.DeserializeMessage(NetIncomingMessage msg) in C:\projects\lunamultiplayer\Server\Server\MessageReceiver.cs:line 97
+[11:00:29][Error]: Error deserializing message! System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at LmpCommon.Message.Data.Vessel.VesselPartSyncFieldMsgData.InternalDeserialize(NetIncomingMessage lidgrenMsg) in C:\projects\lunamultiplayer\LmpCommon\Message\Data\Vessel\VesselPartSyncFieldMsgData.cs:line 102
+   at LmpCommon.Message.Base.FactoryBase.Deserialize(NetIncomingMessage lidgrenMsg, Int64 receiveTime) in C:\projects\lunamultiplayer\LmpCommon\Message\Base\FactoryBase.cs:line 75
+   at Server.Server.MessageReceiver.DeserializeMessage(NetIncomingMessage msg) in C:\projects\lunamultiplayer\Server\Server\MessageReceiver.cs:line 97
+[11:00:30][Debug]: Saving 2 scenario modules from 7dxe
+[11:00:31][Debug]: 7dxe acquired lock UnloadedUpdate - 3bdf2140-74a1-457b-9b64-5ad2f6c14942 - 7dxe
+[11:00:31][Debug]: 7dxe acquired lock Update - 3bdf2140-74a1-457b-9b64-5ad2f6c14942 - 7dxe
+[11:00:31][Debug]: 7dxe acquired lock Update - b7fb8e63-361d-4c48-b6bd-5befb4073f2a - 7dxe
+[11:00:31][Debug]: 7dxe acquired lock UnloadedUpdate - b7fb8e63-361d-4c48-b6bd-5befb4073f2a - 7dxe
+[11:00:31][Debug]: Saving vessel 3bdf2140-74a1-457b-9b64-5ad2f6c14942 (6,04 KB) from 7dxe.
+[11:00:31][Debug]: Saving vessel b7fb8e63-361d-4c48-b6bd-5befb4073f2a (5,349 KB) from 7dxe.
+[11:00:31][LMP]: Removing debris vessel: 3bdf2140-74a1-457b-9b64-5ad2f6c14942
+[11:00:31][LMP]: Removing debris vessel: b7fb8e63-361d-4c48-b6bd-5befb4073f2a
+[11:00:31][LMP]: Removing debris vessel: 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe
+[11:00:31][LMP]: Removing debris vessel: 00d196a9-94b6-4da0-94d8-09e90b4ea1ba
+[11:00:31][LMP]: Removed 4 debris
+[11:00:32][Debug]: Removing vessel c4b87dc4-e827-43c9-9091-08727749ba39 from 7dxe
+[11:00:34][Debug]: 7dxe released lock Control - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:34][Debug]: 7dxe released lock Update - b7fb8e63-361d-4c48-b6bd-5befb4073f2a - 7dxe
+[11:00:34][Debug]: 7dxe released lock Update - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:34][Debug]: 7dxe released lock Update - 3bdf2140-74a1-457b-9b64-5ad2f6c14942 - 7dxe
+[11:00:34][Debug]: 7dxe released lock Update - 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe - 7dxe
+[11:00:34][Debug]: 7dxe released lock Update - 00d196a9-94b6-4da0-94d8-09e90b4ea1ba - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - b7fb8e63-361d-4c48-b6bd-5befb4073f2a - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - c4b87dc4-e827-43c9-9091-08727749ba39 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 3bdf2140-74a1-457b-9b64-5ad2f6c14942 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 00d196a9-94b6-4da0-94d8-09e90b4ea1ba - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:00:34][Debug]: 7dxe released lock UnloadedUpdate - 8f1ff4a3-2381-43b5-a490-f7eba2e6e8fe - 7dxe
+[11:00:37][Debug]: Performing backups...
+[11:00:44][Debug]: Sending 7dxe 10 vessels
+[11:01:01][Debug]: 7dxe acquired lock Control - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock Update - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:01:01][Debug]: 7dxe acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:01:04][Debug]: Saving vessel d988a22d-8d05-49f0-bf9b-bd9d97f79555 (276,09 KB) from 7dxe.
+[11:01:07][Debug]: Performing backups...
+[11:01:11][Debug]: Sending 7dxe 1 vessels
+[11:01:21][Debug]: Sending 7dxe 1 vessels
+[11:01:30][Error]: Error deserializing message! System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at LmpCommon.Message.Data.Vessel.VesselPartSyncFieldMsgData.InternalDeserialize(NetIncomingMessage lidgrenMsg) in C:\projects\lunamultiplayer\LmpCommon\Message\Data\Vessel\VesselPartSyncFieldMsgData.cs:line 102
+   at LmpCommon.Message.Base.FactoryBase.Deserialize(NetIncomingMessage lidgrenMsg, Int64 receiveTime) in C:\projects\lunamultiplayer\LmpCommon\Message\Base\FactoryBase.cs:line 75
+   at Server.Server.MessageReceiver.DeserializeMessage(NetIncomingMessage msg) in C:\projects\lunamultiplayer\Server\Server\MessageReceiver.cs:line 97
+[11:01:30][Error]: Error deserializing message! System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at LmpCommon.Message.Data.Vessel.VesselPartSyncFieldMsgData.InternalDeserialize(NetIncomingMessage lidgrenMsg) in C:\projects\lunamultiplayer\LmpCommon\Message\Data\Vessel\VesselPartSyncFieldMsgData.cs:line 102
+   at LmpCommon.Message.Base.FactoryBase.Deserialize(NetIncomingMessage lidgrenMsg, Int64 receiveTime) in C:\projects\lunamultiplayer\LmpCommon\Message\Base\FactoryBase.cs:line 75
+   at Server.Server.MessageReceiver.DeserializeMessage(NetIncomingMessage msg) in C:\projects\lunamultiplayer\Server\Server\MessageReceiver.cs:line 97
+[11:01:31][Debug]: Sending 7dxe 1 vessels
+[11:01:33][Debug]: 7dxe acquired lock UnloadedUpdate - 41e0999e-762d-4278-8d4f-36e1c4527a04 - 7dxe
+[11:01:33][Debug]: 7dxe acquired lock Update - 41e0999e-762d-4278-8d4f-36e1c4527a04 - 7dxe
+[11:01:34][Debug]: Saving vessel 41e0999e-762d-4278-8d4f-36e1c4527a04 (5,357 KB) from 7dxe.
+[11:01:34][Debug]: 7dxe acquired lock UnloadedUpdate - 626f46dd-80b4-4206-ab7f-f1c1465b279c - 7dxe
+[11:01:34][Debug]: 7dxe acquired lock Update - 626f46dd-80b4-4206-ab7f-f1c1465b279c - 7dxe
+[11:01:34][Debug]: Saving vessel 626f46dd-80b4-4206-ab7f-f1c1465b279c (6,536 KB) from 7dxe.
+[11:01:35][Debug]: Removing vessel 41e0999e-762d-4278-8d4f-36e1c4527a04 from 7dxe
+[11:01:35][Debug]: Removing vessel 626f46dd-80b4-4206-ab7f-f1c1465b279c from 7dxe
+[11:01:35][Debug]: Removing vessel d988a22d-8d05-49f0-bf9b-bd9d97f79555 from 7dxe
+[11:01:37][Debug]: 7dxe released lock Update - 626f46dd-80b4-4206-ab7f-f1c1465b279c - 7dxe
+[11:01:37][Debug]: 7dxe released lock Update - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:37][Debug]: 7dxe released lock Control - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:37][Debug]: 7dxe released lock Update - 41e0999e-762d-4278-8d4f-36e1c4527a04 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 626f46dd-80b4-4206-ab7f-f1c1465b279c - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 41e0999e-762d-4278-8d4f-36e1c4527a04 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:01:37][Debug]: 7dxe released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:01:37][Debug]: Performing backups...
+[11:01:42][Debug]: Sending 7dxe 11 vessels
+[11:01:52][Debug]: Sending 7dxe 2 vessels
+[11:02:02][Debug]: Sending 7dxe 2 vessels
+[11:02:08][Debug]: Performing backups...
+[11:02:11][Debug]: Sending 7dxe 2 vessels
+[11:02:21][Debug]: Sending 7dxe 2 vessels
+[11:02:27][Debug]: 7dxe acquired lock Kerbal - Valentina Kerman - 7dxe
+[11:02:27][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[11:02:35][Debug]: 7dxe acquired lock Control - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock Update - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:02:36][Debug]: 7dxe acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:02:38][Debug]: Saving vessel 384fdf7a-d404-4564-ad77-d3afdb3a8850 (386,766 KB) from 7dxe.
+[11:02:38][Debug]: Performing backups...
+[11:02:46][Debug]: Sending 7dxe 2 vessels
+[11:02:56][Debug]: Sending 7dxe 2 vessels
+[11:03:06][Debug]: Sending 7dxe 2 vessels
+[11:03:08][LMP]: New client Connection from 26.81.224.97:58170
+[11:03:08][Debug]: Online Players: 1, connected: 2
+[11:03:08][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[11:03:08][Debug]: Online Players: 2, connected: 2
+[11:03:08][Debug]: Performing backups...
+[11:03:09][Debug]: Sending Micro 12 vessels
+[11:03:09][Debug]: Sending Micro 41 kerbals...
+[11:03:09][Debug]: Sending Micro 1 possible subspaces
+[11:03:12][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[11:03:12][Debug]: Removing vessel 384fdf7a-d404-4564-ad77-d3afdb3a8850 from 7dxe
+[11:03:14][Debug]: 7dxe released lock Kerbal - Valentina Kerman - 7dxe
+[11:03:14][Debug]: 7dxe released lock Control - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:03:14][Debug]: 7dxe released lock Update - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 384fdf7a-d404-4564-ad77-d3afdb3a8850 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:03:14][Debug]: 7dxe released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:03:16][Debug]: Sending 7dxe 12 vessels
+[11:03:17][Chat]: 7dxe: hiu
+[11:03:18][Debug]: Saving kerbal Jebediah Kerman from Micro
+[11:03:18][Debug]: Saving kerbal Mito Kerman from Micro
+[11:03:19][Debug]: Saving kerbal Mito Kerman from Micro
+[11:03:20][Debug]: Saving kerbal Jebediah Kerman from Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - Micro
+[11:03:20][Debug]: Micro acquired lock UnloadedUpdate - c4b87dc4-e827-43c9-9091-08727749ba39 - Micro
+[11:03:20][Debug]: Micro synced with subspace '264' created by 7dxe
+[11:03:26][Debug]: Sending 7dxe 3 vessels
+[11:03:29][Debug]: Sending Micro 1 vessels
+[11:03:30][Debug]: Saving kerbal Valentina Kerman from Micro
+[11:03:30][Debug]: Removing vessel 384fdf7a-d404-4564-ad77-d3afdb3a8850 from Micro
+[11:03:30][Debug]: Saving kerbal Valentina Kerman from Micro
+[11:03:31][Debug]: Micro failed to release lock Kerbal - Valentina Kerman - Micro
+[11:03:36][Debug]: Sending 7dxe 2 vessels
+[11:03:38][Debug]: Performing backups...
+[11:03:39][Debug]: Saving 10 scenario modules from Micro
+[11:03:46][Debug]: Sending 7dxe 2 vessels
+[11:03:53][Chat]: Micro: helo
+[11:03:56][Debug]: Sending 7dxe 2 vessels
+[11:04:00][Chat]: Micro: wanna do Eve mission
+[11:04:01][Chat]: Micro: or laythe
+[11:04:02][Chat]: Micro: or jool?
+[11:04:06][Debug]: Sending 7dxe 2 vessels
+[11:04:08][Debug]: Performing backups...
+[11:04:14][Chat]: 7dxe: i dont have a lot of time today
+[11:04:16][Debug]: Sending 7dxe 2 vessels
+[11:04:26][Debug]: Sending 7dxe 2 vessels
+[11:04:36][Debug]: Sending 7dxe 2 vessels
+[11:04:38][Debug]: Removing vessel d988a22d-8d05-49f0-bf9b-bd9d97f79555 from Micro
+[11:04:38][Debug]: Saving kerbal Valentina Kerman from Micro
+[11:04:38][Debug]: Performing backups...
+[11:04:39][Debug]: Micro released lock UnloadedUpdate - d988a22d-8d05-49f0-bf9b-bd9d97f79555 - Micro
+[11:04:41][Debug]: Removing vessel c4b87dc4-e827-43c9-9091-08727749ba39 from Micro
+[11:04:42][Debug]: Micro released lock UnloadedUpdate - c4b87dc4-e827-43c9-9091-08727749ba39 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[11:04:46][Debug]: Micro released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[11:04:49][Debug]: Sending Micro 9 vessels
+[11:05:08][Debug]: Performing backups...
+[11:05:38][Debug]: Performing backups...
+[11:06:08][Debug]: Performing backups...
+[11:06:38][Debug]: Performing backups...
+[11:06:54][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[11:06:54][Debug]: 7dxe acquired lock Kerbal - Bill Kerman - 7dxe
+[11:06:54][Debug]: 7dxe acquired lock Kerbal - Bob Kerman - 7dxe
+[11:06:54][Debug]: Saving kerbal Bill Kerman from 7dxe
+[11:06:54][Debug]: Saving kerbal Bob Kerman from 7dxe
+[11:07:02][Debug]: 7dxe acquired lock Control - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:07:02][Debug]: 7dxe acquired lock Update - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:07:02][Debug]: 7dxe acquired lock UnloadedUpdate - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:07:03][Debug]: 7dxe acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:07:03][Debug]: Saving kerbal Bill Kerman from 7dxe
+[11:07:03][Debug]: Saving kerbal Bob Kerman from 7dxe
+[11:07:04][Debug]: Coupling message received! Dominant vessel: 6cc53872-216c-4ca6-857c-766472a77442
+[11:07:04][Debug]: Removing weak coupled vessel b04f918a-2571-4c04-b22e-913fb70e0083
+[11:07:05][Debug]: Saving vessel 6cc53872-216c-4ca6-857c-766472a77442 (302,221 KB) from 7dxe.
+[11:07:05][Debug]: Coupling message received! Dominant vessel: 6cc53872-216c-4ca6-857c-766472a77442
+[11:07:05][Debug]: Removing weak coupled vessel dde212ee-bd5d-4805-b374-37613bfb574b
+[11:07:05][Debug]: Saving kerbal Bill Kerman from 7dxe
+[11:07:05][Debug]: Saving kerbal Bob Kerman from 7dxe
+[11:07:09][Debug]: Performing backups...
+[11:07:16][Debug]: 7dxe acquired lock UnloadedUpdate - 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock Update - 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 - 7dxe
+[11:07:16][Debug]: Saving vessel 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 (5,347 KB) from 7dxe.
+[11:07:16][Debug]: 7dxe acquired lock UnloadedUpdate - 961aeb70-96e9-4ab9-b620-5623d4f0ab2a - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock Update - 961aeb70-96e9-4ab9-b620-5623d4f0ab2a - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock Update - 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock UnloadedUpdate - 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock UnloadedUpdate - fb75b56c-3ea6-4f1a-8f74-6a38e92e9569 - 7dxe
+[11:07:16][Debug]: 7dxe acquired lock Update - fb75b56c-3ea6-4f1a-8f74-6a38e92e9569 - 7dxe
+[11:07:16][Debug]: Saving vessel 961aeb70-96e9-4ab9-b620-5623d4f0ab2a (6,023 KB) from 7dxe.
+[11:07:17][Debug]: Saving vessel 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 (4,003 KB) from 7dxe.
+[11:07:17][Debug]: Removing vessel 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 from 7dxe
+[11:07:17][Debug]: 7dxe released lock UnloadedUpdate - fb75b56c-3ea6-4f1a-8f74-6a38e92e9569 - 7dxe
+[11:07:17][Debug]: 7dxe released lock Update - fb75b56c-3ea6-4f1a-8f74-6a38e92e9569 - 7dxe
+[11:07:17][Debug]: 7dxe released lock UnloadedUpdate - 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 - 7dxe
+[11:07:17][Debug]: 7dxe released lock Update - 52a9adfa-e17b-4c45-9877-ea6a7ea580f5 - 7dxe
+[11:07:18][Debug]: Removing vessel 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 from 7dxe
+[11:07:18][Debug]: Removing vessel 961aeb70-96e9-4ab9-b620-5623d4f0ab2a from 7dxe
+[11:07:18][Debug]: Removing vessel 6cc53872-216c-4ca6-857c-766472a77442 from 7dxe
+[11:07:26][Debug]: Saving vessel 6cc53872-216c-4ca6-857c-766472a77442 (315,559 KB) from 7dxe.
+[11:07:39][Debug]: Performing backups...
+[11:08:07][Debug]: Performing a GarbageCollection
+[11:08:09][Debug]: Performing backups...
+[11:08:39][Debug]: Performing backups...
+[11:09:09][Debug]: Performing backups...
+[11:09:39][Debug]: Performing backups...
+[11:09:55][Chat]: 7dxe: biplane doesnt work :(
+[11:10:09][Debug]: Performing backups...
+[11:10:15][Debug]: 7dxe acquired lock Update - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:10:19][Debug]: 7dxe acquired lock Update - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:10:20][Debug]: 7dxe acquired lock Kerbal - Jebediah Kerman - 7dxe
+[11:10:38][Debug]: Saving kerbal Bill Kerman from 7dxe
+[11:10:38][Debug]: Saving kerbal Bob Kerman from 7dxe
+[11:10:38][Debug]: Removing vessel 6cc53872-216c-4ca6-857c-766472a77442 from 7dxe
+[11:10:39][Debug]: Performing backups...
+[11:10:40][Debug]: Sending Micro 1 vessels
+[11:10:40][Debug]: Saving kerbal Valentina Kerman from 7dxe
+[11:10:41][Debug]: 7dxe released lock Kerbal - Bob Kerman - 7dxe
+[11:10:41][Debug]: 7dxe released lock Kerbal - Bill Kerman - 7dxe
+[11:10:41][Debug]: 7dxe released lock Kerbal - Jebediah Kerman - 7dxe
+[11:10:41][Debug]: 7dxe released lock Control - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:10:41][Debug]: 7dxe released lock Update - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:10:41][Debug]: 7dxe released lock Update - 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 - 7dxe
+[11:10:41][Debug]: 7dxe released lock Update - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:10:41][Debug]: 7dxe released lock Update - 961aeb70-96e9-4ab9-b620-5623d4f0ab2a - 7dxe
+[11:10:41][Debug]: 7dxe released lock Update - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 6cc53872-216c-4ca6-857c-766472a77442 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 883bcdd6-1410-45b7-bd31-cfbdd5ca8b57 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 961aeb70-96e9-4ab9-b620-5623d4f0ab2a - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - 7dxe
+[11:10:41][Debug]: 7dxe released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - 7dxe
+[11:10:45][Debug]: Sending 7dxe 10 vessels
+[11:10:50][Debug]: Sending Micro 1 vessels
+[11:10:50][Debug]: Removing vessel 6cc53872-216c-4ca6-857c-766472a77442 from Micro
+[11:10:50][Debug]: Saving kerbal Bill Kerman from Micro
+[11:10:50][Debug]: Saving kerbal Bob Kerman from Micro
+[11:10:51][Debug]: Micro failed to release lock Kerbal - Bob Kerman - Micro
+[11:10:51][Debug]: Micro failed to release lock Kerbal - Bill Kerman - Micro
+[11:11:09][Debug]: Performing backups...
+[11:11:26][Debug]: 7dxe sent Connection end message, reason: Connection timed out
+[11:11:26][Debug]: Online Players: 1, connected: 1
+[11:11:26][Debug]: 7dxe released lock AsteroidComet - 7dxe
+[11:11:26][Debug]: Micro acquired lock AsteroidComet - Micro
+[11:11:39][Debug]: Performing backups...
+[11:12:09][Debug]: Performing backups...
+[11:12:39][Debug]: Performing backups...
+[11:13:09][Debug]: Performing backups...
+[11:13:39][Debug]: Performing backups...
+[11:14:09][Debug]: Performing backups...
+[11:14:39][Debug]: Performing backups...
+[11:15:09][Debug]: Performing backups...
+[11:15:40][Debug]: Performing backups...
+[11:16:10][Debug]: Performing backups...
+[11:16:40][Debug]: Performing backups...
+[11:17:10][Debug]: Performing backups...
+[11:17:40][Debug]: Performing backups...
+[11:18:10][Debug]: Performing backups...
+[11:18:40][Debug]: Performing backups...
+[11:19:10][Debug]: Performing backups...
+[11:19:40][Debug]: Performing backups...
+[11:20:10][Debug]: Performing backups...
+[11:20:40][Debug]: Performing backups...
+[11:21:10][Debug]: Performing backups...
+[11:21:40][Debug]: Performing backups...
+[11:22:10][Debug]: Performing backups...
+[11:22:40][Debug]: Performing backups...
+[11:23:07][Debug]: Performing a GarbageCollection
+[11:23:10][Debug]: Performing backups...
+[11:23:40][Debug]: Performing backups...
+[11:24:10][Debug]: Performing backups...
+[11:24:41][Debug]: Performing backups...
+[11:25:11][Debug]: Performing backups...
+[11:25:41][Debug]: Performing backups...
+[11:26:11][Debug]: Performing backups...
+[11:26:41][Debug]: Performing backups...
+[11:27:11][Debug]: Performing backups...
+[11:27:41][Debug]: Performing backups...
+[11:28:11][Debug]: Performing backups...
+[11:28:41][Debug]: Performing backups...
+[11:29:11][Debug]: Performing backups...
+[11:29:41][Debug]: Performing backups...
+[11:30:11][Debug]: Performing backups...
+[11:30:41][Debug]: Performing backups...
+[11:31:11][Debug]: Performing backups...
+[11:31:41][Debug]: Performing backups...
+[11:32:11][Debug]: Performing backups...
+[11:32:41][Debug]: Performing backups...
+[11:33:11][Debug]: Performing backups...
+[11:33:41][Debug]: Performing backups...
+[11:34:11][Debug]: Performing backups...
+[11:34:41][Debug]: Performing backups...
+[11:35:12][Debug]: Performing backups...
+[11:35:42][Debug]: Performing backups...
+[11:36:12][Debug]: Performing backups...
+[11:36:42][Debug]: Performing backups...
+[11:37:12][Debug]: Performing backups...
+[11:37:42][Debug]: Performing backups...
+[11:38:07][Debug]: Performing a GarbageCollection
+[11:38:12][Debug]: Performing backups...
+[11:38:42][Debug]: Performing backups...
+[11:39:12][Debug]: Performing backups...
+[11:39:42][Debug]: Performing backups...
+[11:40:12][Debug]: Performing backups...
+[11:40:42][Debug]: Performing backups...
+[11:41:12][Debug]: Performing backups...
+[11:41:12][Debug]: Micro sent Connection end message, reason: Quit
+[11:41:12][Debug]: Online Players: 0, connected: 0
+[11:41:12][Debug]: Micro released lock AsteroidComet - Micro
+[11:41:12][Debug]: Performing backups...
+[11:53:07][Debug]: Performing a GarbageCollection
+[11:58:21][LMP]: New client Connection from 26.81.224.97:63995
+[11:58:21][Debug]: Online Players: 0, connected: 1
+[11:58:21][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[11:58:21][Debug]: Online Players: 1, connected: 1
+[11:58:21][Debug]: Sending Micro 9 vessels
+[11:58:21][Debug]: Sending Micro 41 kerbals...
+[11:58:21][Debug]: Sending Micro 1 possible subspaces
+[11:58:31][Debug]: Saving kerbal Jebediah Kerman from Micro
+[11:58:31][Debug]: Saving kerbal Mito Kerman from Micro
+[11:58:31][Debug]: Saving kerbal Mito Kerman from Micro
+[11:58:31][Debug]: Saving kerbal Jebediah Kerman from Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[11:58:32][Debug]: Micro acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[11:58:32][Debug]: Micro acquired lock AsteroidComet - Micro
+[11:58:32][Debug]: Micro synced with subspace '264' created by 7dxe
+[11:58:42][Debug]: Performing backups...
+[11:58:52][Debug]: Saving 10 scenario modules from Micro
+[11:59:13][Debug]: Performing backups...
+[11:59:43][Debug]: Performing backups...
+[12:00:13][Debug]: Performing backups...
+[12:00:43][Debug]: Performing backups...
+[12:01:13][Debug]: Performing backups...
+[12:01:43][Debug]: Performing backups...
+[12:02:13][Debug]: Performing backups...
+[12:02:32][Debug]: Micro is warping
+[12:02:35][Debug]: Micro created the new subspace '265'
+[12:02:35][Debug]: Removing abandoned subspace '264'
+[12:02:43][Debug]: Performing backups...
+[12:02:54][Debug]: Removing vessel 9a2497aa-a8c5-49ec-b5c7-de655ab25660 from Micro
+[12:02:54][Debug]: Saving kerbal Jebediah Kerman from Micro
+[12:02:54][Debug]: Saving kerbal Jebediah Kerman from Micro
+[12:02:55][Debug]: Micro released lock UnloadedUpdate - 9a2497aa-a8c5-49ec-b5c7-de655ab25660 - Micro
+[12:02:55][Debug]: Micro failed to release lock Kerbal - Jebediah Kerman - Micro
+[12:03:13][Debug]: Performing backups...
+[12:03:43][Debug]: Performing backups...
+[12:04:13][Debug]: Performing backups...
+[12:04:28][Debug]: Micro sent Connection end message, reason: Quit
+[12:04:28][Debug]: Online Players: 0, connected: 0
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[12:04:28][Debug]: Micro released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[12:04:28][Debug]: Micro released lock AsteroidComet - Micro
+[12:04:28][Debug]: Performing backups...
+[12:05:20][LMP]: New client Connection from 26.81.224.97:64651
+[12:05:20][Debug]: Online Players: 0, connected: 1
+[12:05:20][LMP]: Client Micro (5a28149e05bbb606218cda91304c52d174729190) handshake successfully, Version: 0.29.0
+[12:05:20][Debug]: Online Players: 1, connected: 1
+[12:05:20][Debug]: Sending Micro 8 vessels
+[12:05:20][Debug]: Sending Micro 41 kerbals...
+[12:05:20][Debug]: Sending Micro 1 possible subspaces
+[12:05:41][Debug]: Saving kerbal Mito Kerman from Micro
+[12:05:41][Debug]: Saving kerbal Mito Kerman from Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[12:05:42][Debug]: Micro acquired lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[12:05:42][Debug]: Micro acquired lock AsteroidComet - Micro
+[12:05:43][Debug]: Performing backups...
+[12:05:50][Debug]: Saving 10 scenario modules from Micro
+[12:06:13][Debug]: Performing backups...
+[12:06:43][Debug]: Performing backups...
+[12:07:13][Debug]: Performing backups...
+[12:07:43][Debug]: Performing backups...
+[12:08:07][Debug]: Performing a GarbageCollection
+[12:08:13][Debug]: Performing backups...
+[12:08:43][Debug]: Performing backups...
+[12:09:13][Debug]: Performing backups...
+[12:09:44][Debug]: Performing backups...
+[12:10:12][Debug]: Saving kerbal Jebediah Kerman from Micro
+[12:10:14][Debug]: Performing backups...
+[12:10:24][Debug]: Removing vessel 810385ba-d564-451f-b149-1aff9304cb2d from Micro
+[12:10:25][Debug]: Micro released lock UnloadedUpdate - 810385ba-d564-451f-b149-1aff9304cb2d - Micro
+[12:10:44][Debug]: Performing backups...
+[12:11:14][Debug]: Performing backups...
+[12:11:44][Debug]: Performing backups...
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - 8a514f65-4bef-4e42-9031-89d629488b9c - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - b16b3d42-6128-42ef-82b8-73943e807289 - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - 1ed1ced2-2915-4772-a2c8-a014a9f3d8a3 - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - 9dda96ca-51a3-45b6-9eb4-c90eaddc45d8 - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - dd9841a9-bbb5-4c91-baf5-279fe0f0f67a - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - 2c27be14-6db5-45db-a7a3-b5c85df54546 - Micro
+[12:12:01][Debug]: Micro released lock UnloadedUpdate - 20569850-8c90-477e-a929-1738f6069cf1 - Micro
+[12:12:14][Debug]: Performing backups...
+[12:12:14][Debug]: Sending Micro 7 vessels
+[12:12:44][Debug]: Performing backups...
+[12:13:14][Debug]: Performing backups...
+[12:13:44][Debug]: Performing backups...
+[12:14:14][Debug]: Performing backups...
+[12:14:44][Debug]: Performing backups...
+[12:15:14][Debug]: Performing backups...
+[12:15:44][Debug]: Performing backups...
+[12:16:07][Debug]: Micro sent Connection end message, reason: Quit
+[12:16:07][Debug]: Online Players: 0, connected: 0
+[12:16:07][Debug]: Micro released lock AsteroidComet - Micro
+[12:16:07][Debug]: Performing backups...
+[12:17:24][LMP]: End of stdin, stopping command listener
+[12:17:24][LMP]: Exiting... Please wait until all threads are finished
+[12:17:24][Debug]: Performing backups...
+[12:17:24][LMP]: So long and thanks for all the fish!
